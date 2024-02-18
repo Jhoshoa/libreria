@@ -1,100 +1,758 @@
-[{"id":2,"nombre_lamina":"Sheffie","grupo":1,"posicion":1},
-{"id":3,"nombre_lamina":"Giorgio","grupo":2,"posicion":2},
-{"id":4,"nombre_lamina":"Lay","grupo":3,"posicion":3},
-{"id":5,"nombre_lamina":"Kania","grupo":4,"posicion":4},
-{"id":6,"nombre_lamina":"Loni","grupo":5,"posicion":5},
-{"id":7,"nombre_lamina":"Silva","grupo":6,"posicion":6},
-{"id":8,"nombre_lamina":"Muffin","grupo":7,"posicion":7},
-{"id":9,"nombre_lamina":"Tris","grupo":8,"posicion":8},
-{"id":10,"nombre_lamina":"Myer","grupo":9,"posicion":9},
-{"id":11,"nombre_lamina":"Cathe","grupo":10,"posicion":10},
-{"id":12,"nombre_lamina":"Phillipe","grupo":11,"posicion":11},
-{"id":13,"nombre_lamina":"Thatcher","grupo":12,"posicion":12},
-{"id":14,"nombre_lamina":"Nicko","grupo":13,"posicion":13},
-{"id":15,"nombre_lamina":"Clareta","grupo":14,"posicion":14},
-{"id":16,"nombre_lamina":"Sutherlan","grupo":15,"posicion":15},
-{"id":17,"nombre_lamina":"Clifford","grupo":16,"posicion":16},
-{"id":18,"nombre_lamina":"Karrah","grupo":17,"posicion":17},
-{"id":19,"nombre_lamina":"Blake","grupo":18,"posicion":18},
-{"id":20,"nombre_lamina":"Peter","grupo":19,"posicion":19},
-{"id":21,"nombre_lamina":"Brandy","grupo":20,"posicion":20},
-{"id":22,"nombre_lamina":"Vinny","grupo":21,"posicion":21},
-{"id":23,"nombre_lamina":"Yard","grupo":22,"posicion":22},
-{"id":24,"nombre_lamina":"Odilia","grupo":23,"posicion":23},
-{"id":25,"nombre_lamina":"Adrian","grupo":24,"posicion":24},
-{"id":26,"nombre_lamina":"Kamilah","grupo":25,"posicion":25},
-{"id":27,"nombre_lamina":"Sylvia","grupo":26,"posicion":26},
-{"id":28,"nombre_lamina":"Patten","grupo":27,"posicion":27},
-{"id":29,"nombre_lamina":"Nehemiah","grupo":28,"posicion":28},
-{"id":30,"nombre_lamina":"Tommy","grupo":29,"posicion":29},
-{"id":31,"nombre_lamina":"Stormy","grupo":30,"posicion":30},
-{"id":32,"nombre_lamina":"Missie","grupo":31,"posicion":31},
-{"id":33,"nombre_lamina":"Adelaide","grupo":32,"posicion":32},
-{"id":34,"nombre_lamina":"Corabelle","grupo":33,"posicion":33},
-{"id":35,"nombre_lamina":"Anatollo","grupo":34,"posicion":34},
-{"id":36,"nombre_lamina":"Frederick","grupo":35,"posicion":35},
-{"id":37,"nombre_lamina":"Randal","grupo":36,"posicion":36},
-{"id":38,"nombre_lamina":"Tine","grupo":37,"posicion":37},
-{"id":39,"nombre_lamina":"Herta","grupo":38,"posicion":38},
-{"id":40,"nombre_lamina":"Holmes","grupo":39,"posicion":39},
-{"id":41,"nombre_lamina":"Elsbeth","grupo":40,"posicion":40},
-{"id":42,"nombre_lamina":"Nissy","grupo":41,"posicion":41},
-{"id":43,"nombre_lamina":"Dion","grupo":42,"posicion":42},
-{"id":44,"nombre_lamina":"Ula","grupo":43,"posicion":43},
-{"id":45,"nombre_lamina":"Dennie","grupo":44,"posicion":44},
-{"id":46,"nombre_lamina":"Vinnie","grupo":45,"posicion":45},
-{"id":47,"nombre_lamina":"Rance","grupo":46,"posicion":46},
-{"id":48,"nombre_lamina":"Kristyn","grupo":47,"posicion":47},
-{"id":49,"nombre_lamina":"Agna","grupo":48,"posicion":48},
-{"id":50,"nombre_lamina":"Lynn","grupo":49,"posicion":49},
-{"id":51,"nombre_lamina":"Hardy","grupo":50,"posicion":50},
-{"id":52,"nombre_lamina":"Fania","grupo":51,"posicion":51},
-{"id":53,"nombre_lamina":"Codie","grupo":52,"posicion":52},
-{"id":54,"nombre_lamina":"Tootsie","grupo":53,"posicion":53},
-{"id":55,"nombre_lamina":"Glad","grupo":54,"posicion":54},
-{"id":56,"nombre_lamina":"Gavan","grupo":55,"posicion":55},
-{"id":57,"nombre_lamina":"Dusty","grupo":56,"posicion":56},
-{"id":58,"nombre_lamina":"Nessi","grupo":57,"posicion":57},
-{"id":59,"nombre_lamina":"Kit","grupo":58,"posicion":58},
-{"id":60,"nombre_lamina":"Hallsy","grupo":59,"posicion":59},
-{"id":61,"nombre_lamina":"Karalynn","grupo":60,"posicion":60},
-{"id":62,"nombre_lamina":"Sissie","grupo":61,"posicion":61},
-{"id":63,"nombre_lamina":"Lyn","grupo":62,"posicion":62},
-{"id":64,"nombre_lamina":"Jackson","grupo":63,"posicion":63},
-{"id":65,"nombre_lamina":"Whitaker","grupo":64,"posicion":64},
-{"id":66,"nombre_lamina":"Ave","grupo":65,"posicion":65},
-{"id":67,"nombre_lamina":"Kayne","grupo":66,"posicion":66},
-{"id":68,"nombre_lamina":"Crin","grupo":67,"posicion":67},
-{"id":69,"nombre_lamina":"Justin","grupo":68,"posicion":68},
-{"id":70,"nombre_lamina":"Deny","grupo":69,"posicion":69},
-{"id":71,"nombre_lamina":"Laurice","grupo":70,"posicion":70},
-{"id":72,"nombre_lamina":"Rosabel","grupo":71,"posicion":71},
-{"id":73,"nombre_lamina":"Kermit","grupo":72,"posicion":72},
-{"id":74,"nombre_lamina":"Oneida","grupo":73,"posicion":73},
-{"id":75,"nombre_lamina":"Maia","grupo":74,"posicion":74},
-{"id":76,"nombre_lamina":"Aaren","grupo":75,"posicion":75},
-{"id":77,"nombre_lamina":"Reamonn","grupo":76,"posicion":76},
-{"id":78,"nombre_lamina":"Paddie","grupo":77,"posicion":77},
-{"id":79,"nombre_lamina":"Gerianna","grupo":78,"posicion":78},
-{"id":80,"nombre_lamina":"Asia","grupo":79,"posicion":79},
-{"id":81,"nombre_lamina":"Darla","grupo":80,"posicion":80},
-{"id":82,"nombre_lamina":"Lezlie","grupo":81,"posicion":81},
-{"id":83,"nombre_lamina":"Etheline","grupo":82,"posicion":82},
-{"id":84,"nombre_lamina":"Corbie","grupo":83,"posicion":83},
-{"id":85,"nombre_lamina":"Rik","grupo":84,"posicion":84},
-{"id":86,"nombre_lamina":"Marieann","grupo":85,"posicion":85},
-{"id":87,"nombre_lamina":"Milo","grupo":86,"posicion":86},
-{"id":88,"nombre_lamina":"Fransisco","grupo":87,"posicion":87},
-{"id":89,"nombre_lamina":"Ripley","grupo":88,"posicion":88},
-{"id":90,"nombre_lamina":"Berti","grupo":89,"posicion":89},
-{"id":91,"nombre_lamina":"Callie","grupo":90,"posicion":90},
-{"id":92,"nombre_lamina":"Ketty","grupo":91,"posicion":91},
-{"id":93,"nombre_lamina":"Augustine","grupo":92,"posicion":92},
-{"id":94,"nombre_lamina":"Prince","grupo":93,"posicion":93},
-{"id":95,"nombre_lamina":"Michaela","grupo":94,"posicion":94},
-{"id":96,"nombre_lamina":"Dena","grupo":95,"posicion":95},
-{"id":97,"nombre_lamina":"Crissie","grupo":96,"posicion":96},
-{"id":98,"nombre_lamina":"Gustaf","grupo":97,"posicion":97},
-{"id":99,"nombre_lamina":"Jayme","grupo":98,"posicion":98},
-{"id":100,"nombre_lamina":"Janot","grupo":99,"posicion":99},
-{"id":101,"nombre_lamina":"Daphne","grupo":100,"posicion":100}]
+[
+    {
+      "id": 1,
+      "nombre_lamina": "Medidas del tiempo",
+      "grupo": 1,
+      "posicion": 1
+    },
+    {
+      "id": 2,
+      "nombre_lamina": "El abecedario",
+      "grupo": 1,
+      "posicion": 2
+    },
+    {
+      "id": 3,
+      "nombre_lamina": "Numeros romanos",
+      "grupo": 1,
+      "posicion": 3
+    },
+    {
+      "id": 4,
+      "nombre_lamina": "Figuras geometricas",
+      "grupo": 1,
+      "posicion": 4
+    },
+    {
+      "id": 5,
+      "nombre_lamina": "Los numeros",
+      "grupo": 1,
+      "posicion": 5
+    },
+    {
+      "id": 6,
+      "nombre_lamina": "La flor",
+      "grupo": 1,
+      "posicion": 6
+    },
+    {
+      "id": 7,
+      "nombre_lamina": "La semilla",
+      "grupo": 1,
+      "posicion": 7
+    },
+    {
+      "id": 8,
+      "nombre_lamina": "La planta y sus partes",
+      "grupo": 1,
+      "posicion": 8
+    },
+    {
+      "id": 9,
+      "nombre_lamina": "Plantas en peligro de extincion",
+      "grupo": 1,
+      "posicion": 9
+    },
+    {
+      "id": 10,
+      "nombre_lamina": "Plantas ornamentales",
+      "grupo": 1,
+      "posicion": 10
+    },
+    {
+      "id": 11,
+      "nombre_lamina": "Plantas medicinales",
+      "grupo": 1,
+      "posicion": 11
+    },
+    {
+      "id": 12,
+      "nombre_lamina": "Plantas aereas, acuaticas terrestres",
+      "grupo": 1,
+      "posicion": 12
+    },
+    {
+      "id": 13,
+      "nombre_lamina": "Clases de madera en bolivia",
+      "grupo": 1,
+      "posicion": 13
+    },
+    {
+      "id": 14,
+      "nombre_lamina": "Deforestacion",
+      "grupo": 1,
+      "posicion": 14
+    },
+    {
+      "id": 15,
+      "nombre_lamina": "Contaminacion: agua, suelo y aire",
+      "grupo": 1,
+      "posicion": 15
+    },
+    {
+      "id": 16,
+      "nombre_lamina": "Herramientas de carpinteria",
+      "grupo": 1,
+      "posicion": 16
+    },
+    {
+      "id": 17,
+      "nombre_lamina": "Artesania en bolivia",
+      "grupo": 1,
+      "posicion": 17
+    },
+    {
+      "id": 18,
+      "nombre_lamina": "Arte contemporaneo en bolivia",
+      "grupo": 1,
+      "posicion": 18
+    },
+    {
+      "id": 19,
+      "nombre_lamina": "Los oficios",
+      "grupo": 1,
+      "posicion": 19
+    },
+    {
+      "id": 20,
+      "nombre_lamina": "Las profesiones",
+      "grupo": 1,
+      "posicion": 20
+    },
+    {
+      "id": 21,
+      "nombre_lamina": "Artes plasticas",
+      "grupo": 1,
+      "posicion": 21
+    },
+    {
+      "id": 22,
+      "nombre_lamina": "Pinturas de mamani mamani",
+      "grupo": 1,
+      "posicion": 22
+    },
+    {
+      "id": 23,
+      "nombre_lamina": "Clasificacion de las plantas",
+      "grupo": 1,
+      "posicion": 23
+    },
+    {
+      "id": 24,
+      "nombre_lamina": "Paisajes artisticos",
+      "grupo": 1,
+      "posicion": 24
+    },
+    {
+      "id": 25,
+      "nombre_lamina": "Instrumentos musicales de viento",
+      "grupo": 2,
+      "posicion": 1
+    },
+    {
+      "id": 26,
+      "nombre_lamina": "Instrumentos musicales",
+      "grupo": 2,
+      "posicion": 2
+    },
+    {
+      "id": 27,
+      "nombre_lamina": "Danzas autoctonas de bolivia",
+      "grupo": 2,
+      "posicion": 3
+    },
+    {
+      "id": 28,
+      "nombre_lamina": "El voleibol",
+      "grupo": 2,
+      "posicion": 4
+    },
+    {
+      "id": 29,
+      "nombre_lamina": "Medios de comunicacion",
+      "grupo": 2,
+      "posicion": 5
+    },
+    {
+      "id": 30,
+      "nombre_lamina": "La tecnologia",
+      "grupo": 2,
+      "posicion": 6
+    },
+    {
+      "id": 31,
+      "nombre_lamina": "Instrumentos de laboratorio",
+      "grupo": 2,
+      "posicion": 7
+    },
+    {
+      "id": 32,
+      "nombre_lamina": "El basquetbol",
+      "grupo": 2,
+      "posicion": 8
+    },
+    {
+      "id": 33,
+      "nombre_lamina": "La computadora y sus componentes",
+      "grupo": 2,
+      "posicion": 9
+    },
+    {
+      "id": 34,
+      "nombre_lamina": "Ultimos avances tecnologicos",
+      "grupo": 2,
+      "posicion": 10
+    },
+    {
+      "id": 35,
+      "nombre_lamina": "Servicios publicos",
+      "grupo": 2,
+      "posicion": 11
+    },
+    {
+      "id": 36,
+      "nombre_lamina": "Medios de transporte",
+      "grupo": 2,
+      "posicion": 12
+    },
+    {
+      "id": 37,
+      "nombre_lamina": "Educacion vial",
+      "grupo": 2,
+      "posicion": 13
+    },
+    {
+      "id": 38,
+      "nombre_lamina": "Derivados del petroleo",
+      "grupo": 2,
+      "posicion": 14
+    },
+    {
+      "id": 39,
+      "nombre_lamina": "Los electrodomesticos",
+      "grupo": 2,
+      "posicion": 15
+    },
+    {
+      "id": 40,
+      "nombre_lamina": "El futbol",
+      "grupo": 2,
+      "posicion": 16
+    },
+    {
+      "id": 41,
+      "nombre_lamina": "El futsal",
+      "grupo": 2,
+      "posicion": 17
+    },
+    {
+      "id": 42,
+      "nombre_lamina": "Gimnasia",
+      "grupo": 2,
+      "posicion": 18
+    },
+    {
+      "id": 43,
+      "nombre_lamina": "Atletismo",
+      "grupo": 2,
+      "posicion": 19
+    },
+    {
+      "id": 44,
+      "nombre_lamina": "Deportes",
+      "grupo": 2,
+      "posicion": 20
+    },
+    {
+      "id": 45,
+      "nombre_lamina": "Primeros auxilios",
+      "grupo": 2,
+      "posicion": 21
+    },
+    {
+      "id": 46,
+      "nombre_lamina": "El suelo",
+      "grupo": 3,
+      "posicion": 19
+    },
+    {
+      "id": 47,
+      "nombre_lamina": "Los minerales",
+      "grupo": 3,
+      "posicion": 20
+    },
+    {
+      "id": 48,
+      "nombre_lamina": "La mineria en bolivia",
+      "grupo": 3,
+      "posicion": 21
+    },
+    {
+      "id": 49,
+      "nombre_lamina": "El volcan y tipos de volcanes",
+      "grupo": 3,
+      "posicion": 22
+    },
+    {
+      "id": 50,
+      "nombre_lamina": "La biodiversidad",
+      "grupo": 3,
+      "posicion": 23
+    },
+    {
+      "id": 51,
+      "nombre_lamina": "Oviparos, viviparos y ovoviviparos",
+      "grupo": 3,
+      "posicion": 24
+    },
+    {
+      "id": 52,
+      "nombre_lamina": "Fauna y flora de bolivia",
+      "grupo": 3,
+      "posicion": 25
+    },
+    {
+      "id": 53,
+      "nombre_lamina": "Flora de bolivia",
+      "grupo": 3,
+      "posicion": 26
+    },
+    {
+      "id": 54,
+      "nombre_lamina": "Fauna de bolivia",
+      "grupo": 3,
+      "posicion": 27
+    },
+    {
+      "id": 55,
+      "nombre_lamina": "Animales carnivoros",
+      "grupo": 3,
+      "posicion": 28
+    },
+    {
+      "id": 56,
+      "nombre_lamina": "Cadena alimenticia o trofica",
+      "grupo": 3,
+      "posicion": 29
+    },
+    {
+      "id": 57,
+      "nombre_lamina": "La ganaderia en bolivia",
+      "grupo": 3,
+      "posicion": 30
+    },
+    {
+      "id": 58,
+      "nombre_lamina": "Calentamiento global",
+      "grupo": 3,
+      "posicion": 31
+    },
+    {
+      "id": 59,
+      "nombre_lamina": "Capa de ozono",
+      "grupo": 3,
+      "posicion": 32
+    },
+    {
+      "id": 60,
+      "nombre_lamina": "Las rocas",
+      "grupo": 3,
+      "posicion": 33
+    },
+    {
+      "id": 61,
+      "nombre_lamina": "Tipos de agua",
+      "grupo": 3,
+      "posicion": 34
+    },
+    {
+      "id": 62,
+      "nombre_lamina": "Arqueologia",
+      "grupo": 3,
+      "posicion": 35
+    },
+    {
+      "id": 63,
+      "nombre_lamina": "El ciclo del agua",
+      "grupo": 3,
+      "posicion": 36
+    },
+    {
+      "id": 64,
+      "nombre_lamina": "La Quinica",
+      "grupo": 5,
+      "posicion": 1
+    },
+    {
+      "id": 65,
+      "nombre_lamina": "fisica",
+      "grupo": 5,
+      "posicion": 2
+    },
+    {
+      "id": 66,
+      "nombre_lamina": "La materia",
+      "grupo": 5,
+      "posicion": 3
+    },
+    {
+      "id": 67,
+      "nombre_lamina": "El metro",
+      "grupo": 5,
+      "posicion": 4
+    },
+    {
+      "id": 68,
+      "nombre_lamina": "El litro",
+      "grupo": 5,
+      "posicion": 5
+    },
+    {
+      "id": 69,
+      "nombre_lamina": "El kilo o KIlogramo",
+      "grupo": 5,
+      "posicion": 6
+    },
+    {
+      "id": 70,
+      "nombre_lamina": "Usos del agua",
+      "grupo": 5,
+      "posicion": 7
+    },
+    {
+      "id": 71,
+      "nombre_lamina": "La biologia",
+      "grupo": 5,
+      "posicion": 8
+    },
+    {
+      "id": 72,
+      "nombre_lamina": "Corona virus",
+      "grupo": 5,
+      "posicion": 9
+    },
+    {
+      "id": 73,
+      "nombre_lamina": "Celula humana",
+      "grupo": 5,
+      "posicion": 10
+    },
+    {
+      "id": 74,
+      "nombre_lamina": "Celula Vegetal",
+      "grupo": 5,
+      "posicion": 11
+    },
+    {
+      "id": 75,
+      "nombre_lamina": "Celula Eucariotas y Procariotas",
+      "grupo": 5,
+      "posicion": 12
+    },
+    {
+      "id": 76,
+      "nombre_lamina": "Tipos y formas de  Celulas",
+      "grupo": 5,
+      "posicion": 13
+    },
+    {
+      "id": 77,
+      "nombre_lamina": "Celula Humana o Animal - Vegetal",
+      "grupo": 5,
+      "posicion": 14
+    },
+    {
+      "id": 78,
+      "nombre_lamina": "La Celula Humana y diferentes tipos de Celula",
+      "grupo": 5,
+      "posicion": 15
+    },
+    {
+      "id": 79,
+      "nombre_lamina": "El Corazon",
+      "grupo": 5,
+      "posicion": 16
+    },
+    {
+      "id": 80,
+      "nombre_lamina": "Sistema Nervioso",
+      "grupo": 5,
+      "posicion": 17
+    },
+    {
+      "id": 81,
+      "nombre_lamina": "Sistema Nervioso Central",
+      "grupo": 5,
+      "posicion": 18
+    },
+    {
+      "id": 82,
+      "nombre_lamina": "Sistema Endrocrino",
+      "grupo": 5,
+      "posicion": 19
+    },
+    {
+      "id": 83,
+      "nombre_lamina": "El Aparato Digestivo",
+      "grupo": 5,
+      "posicion": 20
+    },
+    {
+      "id": 84,
+      "nombre_lamina": "Sistema Muscular",
+      "grupo": 5,
+      "posicion": 21
+    },
+    {
+      "id": 85,
+      "nombre_lamina": "Tipos de Huesos",
+      "grupo": 5,
+      "posicion": 22
+    },
+    {
+      "id": 86,
+      "nombre_lamina": "Sistema Respiratorio",
+      "grupo": 5,
+      "posicion": 23
+    },
+    {
+      "id": 87,
+      "nombre_lamina": "Sistema Circulatorio",
+      "grupo": 5,
+      "posicion": 24
+    },
+    {
+      "id": 88,
+      "nombre_lamina": "Aparato Hurinario",
+      "grupo": 5,
+      "posicion": 25
+    },
+    {
+      "id": 89,
+      "nombre_lamina": "Huesos del Craneo",
+      "grupo": 5,
+      "posicion": 26
+    },
+    {
+      "id": 90,
+      "nombre_lamina": "Aparato Reproductor Masculino y Femenino",
+      "grupo": 5,
+      "posicion": 27
+    },
+    {
+      "id": 91,
+      "nombre_lamina": "El Cerebro",
+      "grupo": 5,
+      "posicion": 28
+    },
+    {
+      "id": 92,
+      "nombre_lamina": "El Embarazo",
+      "grupo": 5,
+      "posicion": 29
+    },
+    {
+      "id": 93,
+      "nombre_lamina": "Tipos y Formas de Musculos del Cuerpo Humano",
+      "grupo": 5,
+      "posicion": 30
+    },
+    {
+      "id": 94,
+      "nombre_lamina": "EL Cuerpo Humano",
+      "grupo": 5,
+      "posicion": 31
+    },
+    {
+      "id": 95,
+      "nombre_lamina": "Huesos del Esqueleto Humano",
+      "grupo": 5,
+      "posicion": 32
+    },
+    {
+      "id": 96,
+      "nombre_lamina": "Esqueleto Humano (2 vistas)",
+      "grupo": 5,
+      "posicion": 33
+    },
+    {
+      "id": 97,
+      "nombre_lamina": "Esqueleto Humano (3 vistas)",
+      "grupo": 5,
+      "posicion": 34
+    },
+    {
+      "id": 98,
+      "nombre_lamina": "Los Cinco Sentidos",
+      "grupo": 5,
+      "posicion": 35
+    },
+    {
+      "id": 99,
+      "nombre_lamina": "Sentido de la Vista",
+      "grupo": 5,
+      "posicion": 36
+    },
+    {
+      "id": 100,
+      "nombre_lamina": "Sistema del Gusto",
+      "grupo": 5,
+      "posicion": 37
+    },
+    {
+      "id": 101,
+      "nombre_lamina": "Sentido del Oido",
+      "grupo": 5,
+      "posicion": 38
+    },
+    {
+      "id": 102,
+      "nombre_lamina": "Sentido del Tacto",
+      "grupo": 5,
+      "posicion": 39
+    },
+    {
+      "id": 103,
+      "nombre_lamina": "Sentido del Olfato",
+      "grupo": 5,
+      "posicion": 40
+    },
+    {
+      "id": 104,
+      "nombre_lamina": "La Familia",
+      "grupo": 5,
+      "posicion": 41
+    },
+    {
+      "id": 105,
+      "nombre_lamina": "El Ciclo de la Vida",
+      "grupo": 5,
+      "posicion": 42
+    },
+    {
+      "id": 106,
+      "nombre_lamina": "Planificacion Familiar",
+      "grupo": 5,
+      "posicion": 43
+    },
+    {
+      "id": 107,
+      "nombre_lamina": "Los Dientes",
+      "grupo": 5,
+      "posicion": 44
+    },
+    {
+      "id": 108,
+      "nombre_lamina": "Complicaiones en el Embarazo",
+      "grupo": 5,
+      "posicion": 45
+    },
+    {
+      "id": 109,
+      "nombre_lamina": "Gestacion Humana",
+      "grupo": 5,
+      "posicion": 46
+    },
+    {
+      "id": 110,
+      "nombre_lamina": "Metodos Anticonceptivos",
+      "grupo": 5,
+      "posicion": 47
+    },
+    {
+      "id": 111,
+      "nombre_lamina": "Enfermedades del Sistema Nervioso",
+      "grupo": 5,
+      "posicion": 48
+    },
+    {
+      "id": 112,
+      "nombre_lamina": "Aparato Excretor",
+      "grupo": 5,
+      "posicion": 49
+    },
+    {
+      "id": 113,
+      "nombre_lamina": "Enfernedades del Sistema Excretor",
+      "grupo": 5,
+      "posicion": 50
+    },
+    {
+      "id": 114,
+      "nombre_lamina": "La Neurona",
+      "grupo": 5,
+      "posicion": 51
+    },
+    {
+      "id": 115,
+      "nombre_lamina": "Ontogenesis",
+      "grupo": 5,
+      "posicion": 52
+    },
+    {
+      "id": 116,
+      "nombre_lamina": "La Sangre",
+      "grupo": 5,
+      "posicion": 53
+    },
+    {
+      "id": 117,
+      "nombre_lamina": "Enfermerdades Venereas ( ETS en Varones)",
+      "grupo": 5,
+      "posicion": 54
+    },
+    {
+      "id": 118,
+      "nombre_lamina": "Las Glandulas",
+      "grupo": 5,
+      "posicion": 55
+    },
+    {
+      "id": 119,
+      "nombre_lamina": "Etapas de la Vida",
+      "grupo": 5,
+      "posicion": 56
+    },
+    {
+      "id": 120,
+      "nombre_lamina": "Cadena Alimenticia  o Trofica",
+      "grupo": 5,
+      "posicion": 57
+    },
+    {
+      "id": 121,
+      "nombre_lamina": "La Pubertad",
+      "grupo": 5,
+      "posicion": 58
+    },
+    {
+      "id": 122,
+      "nombre_lamina": "Las Hormonas",
+      "grupo": 5,
+      "posicion": 59
+    },
+    {
+      "id": 123,
+      "nombre_lamina": "El Aborto",
+      "grupo": 5,
+      "posicion": 60
+    },
+    {
+      "id": 124,
+      "nombre_lamina": "La Sexualidad Humana",
+      "grupo": 5,
+      "posicion": 61
+    },
+    {
+      "id": 125,
+      "nombre_lamina": "Enfermedades del Sistema Oseo y Articular",
+      "grupo": 5,
+      "posicion": 62
+    },
+    {
+      "id": 126,
+      "nombre_lamina": "El Microscopio",
+      "grupo": 5,
+      "posicion": 63
+    }
+  ]
