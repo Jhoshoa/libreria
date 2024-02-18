@@ -1,758 +1,2312 @@
 [
-    {
-      "id": 1,
-      "nombre_lamina": "Medidas del tiempo",
-      "grupo": 1,
-      "posicion": 1
-    },
-    {
-      "id": 2,
-      "nombre_lamina": "El abecedario",
-      "grupo": 1,
-      "posicion": 2
-    },
-    {
-      "id": 3,
-      "nombre_lamina": "Numeros romanos",
-      "grupo": 1,
-      "posicion": 3
-    },
-    {
-      "id": 4,
-      "nombre_lamina": "Figuras geometricas",
-      "grupo": 1,
-      "posicion": 4
-    },
-    {
-      "id": 5,
-      "nombre_lamina": "Los numeros",
-      "grupo": 1,
-      "posicion": 5
-    },
-    {
-      "id": 6,
-      "nombre_lamina": "La flor",
-      "grupo": 1,
-      "posicion": 6
-    },
-    {
-      "id": 7,
-      "nombre_lamina": "La semilla",
-      "grupo": 1,
-      "posicion": 7
-    },
-    {
-      "id": 8,
-      "nombre_lamina": "La planta y sus partes",
-      "grupo": 1,
-      "posicion": 8
-    },
-    {
-      "id": 9,
-      "nombre_lamina": "Plantas en peligro de extincion",
-      "grupo": 1,
-      "posicion": 9
-    },
-    {
-      "id": 10,
-      "nombre_lamina": "Plantas ornamentales",
-      "grupo": 1,
-      "posicion": 10
-    },
-    {
-      "id": 11,
-      "nombre_lamina": "Plantas medicinales",
-      "grupo": 1,
-      "posicion": 11
-    },
-    {
-      "id": 12,
-      "nombre_lamina": "Plantas aereas, acuaticas terrestres",
-      "grupo": 1,
-      "posicion": 12
-    },
-    {
-      "id": 13,
-      "nombre_lamina": "Clases de madera en bolivia",
-      "grupo": 1,
-      "posicion": 13
-    },
-    {
-      "id": 14,
-      "nombre_lamina": "Deforestacion",
-      "grupo": 1,
-      "posicion": 14
-    },
-    {
-      "id": 15,
-      "nombre_lamina": "Contaminacion: agua, suelo y aire",
-      "grupo": 1,
-      "posicion": 15
-    },
-    {
-      "id": 16,
-      "nombre_lamina": "Herramientas de carpinteria",
-      "grupo": 1,
-      "posicion": 16
-    },
-    {
-      "id": 17,
-      "nombre_lamina": "Artesania en bolivia",
-      "grupo": 1,
-      "posicion": 17
-    },
-    {
-      "id": 18,
-      "nombre_lamina": "Arte contemporaneo en bolivia",
-      "grupo": 1,
-      "posicion": 18
-    },
-    {
-      "id": 19,
-      "nombre_lamina": "Los oficios",
-      "grupo": 1,
-      "posicion": 19
-    },
-    {
-      "id": 20,
-      "nombre_lamina": "Las profesiones",
-      "grupo": 1,
-      "posicion": 20
-    },
-    {
-      "id": 21,
-      "nombre_lamina": "Artes plasticas",
-      "grupo": 1,
-      "posicion": 21
-    },
-    {
-      "id": 22,
-      "nombre_lamina": "Pinturas de mamani mamani",
-      "grupo": 1,
-      "posicion": 22
-    },
-    {
-      "id": 23,
-      "nombre_lamina": "Clasificacion de las plantas",
-      "grupo": 1,
-      "posicion": 23
-    },
-    {
-      "id": 24,
-      "nombre_lamina": "Paisajes artisticos",
-      "grupo": 1,
-      "posicion": 24
-    },
-    {
-      "id": 25,
-      "nombre_lamina": "Instrumentos musicales de viento",
-      "grupo": 2,
-      "posicion": 1
-    },
-    {
-      "id": 26,
-      "nombre_lamina": "Instrumentos musicales",
-      "grupo": 2,
-      "posicion": 2
-    },
-    {
-      "id": 27,
-      "nombre_lamina": "Danzas autoctonas de bolivia",
-      "grupo": 2,
-      "posicion": 3
-    },
-    {
-      "id": 28,
-      "nombre_lamina": "El voleibol",
-      "grupo": 2,
-      "posicion": 4
-    },
-    {
-      "id": 29,
-      "nombre_lamina": "Medios de comunicacion",
-      "grupo": 2,
-      "posicion": 5
-    },
-    {
-      "id": 30,
-      "nombre_lamina": "La tecnologia",
-      "grupo": 2,
-      "posicion": 6
-    },
-    {
-      "id": 31,
-      "nombre_lamina": "Instrumentos de laboratorio",
-      "grupo": 2,
-      "posicion": 7
-    },
-    {
-      "id": 32,
-      "nombre_lamina": "El basquetbol",
-      "grupo": 2,
-      "posicion": 8
-    },
-    {
-      "id": 33,
-      "nombre_lamina": "La computadora y sus componentes",
-      "grupo": 2,
-      "posicion": 9
-    },
-    {
-      "id": 34,
-      "nombre_lamina": "Ultimos avances tecnologicos",
-      "grupo": 2,
-      "posicion": 10
-    },
-    {
-      "id": 35,
-      "nombre_lamina": "Servicios publicos",
-      "grupo": 2,
-      "posicion": 11
-    },
-    {
-      "id": 36,
-      "nombre_lamina": "Medios de transporte",
-      "grupo": 2,
-      "posicion": 12
-    },
-    {
-      "id": 37,
-      "nombre_lamina": "Educacion vial",
-      "grupo": 2,
-      "posicion": 13
-    },
-    {
-      "id": 38,
-      "nombre_lamina": "Derivados del petroleo",
-      "grupo": 2,
-      "posicion": 14
-    },
-    {
-      "id": 39,
-      "nombre_lamina": "Los electrodomesticos",
-      "grupo": 2,
-      "posicion": 15
-    },
-    {
-      "id": 40,
-      "nombre_lamina": "El futbol",
-      "grupo": 2,
-      "posicion": 16
-    },
-    {
-      "id": 41,
-      "nombre_lamina": "El futsal",
-      "grupo": 2,
-      "posicion": 17
-    },
-    {
-      "id": 42,
-      "nombre_lamina": "Gimnasia",
-      "grupo": 2,
-      "posicion": 18
-    },
-    {
-      "id": 43,
-      "nombre_lamina": "Atletismo",
-      "grupo": 2,
-      "posicion": 19
-    },
-    {
-      "id": 44,
-      "nombre_lamina": "Deportes",
-      "grupo": 2,
-      "posicion": 20
-    },
-    {
-      "id": 45,
-      "nombre_lamina": "Primeros auxilios",
-      "grupo": 2,
-      "posicion": 21
-    },
-    {
-      "id": 46,
-      "nombre_lamina": "El suelo",
-      "grupo": 3,
-      "posicion": 19
-    },
-    {
-      "id": 47,
-      "nombre_lamina": "Los minerales",
-      "grupo": 3,
-      "posicion": 20
-    },
-    {
-      "id": 48,
-      "nombre_lamina": "La mineria en bolivia",
-      "grupo": 3,
-      "posicion": 21
-    },
-    {
-      "id": 49,
-      "nombre_lamina": "El volcan y tipos de volcanes",
-      "grupo": 3,
-      "posicion": 22
-    },
-    {
-      "id": 50,
-      "nombre_lamina": "La biodiversidad",
-      "grupo": 3,
-      "posicion": 23
-    },
-    {
-      "id": 51,
-      "nombre_lamina": "Oviparos, viviparos y ovoviviparos",
-      "grupo": 3,
-      "posicion": 24
-    },
-    {
-      "id": 52,
-      "nombre_lamina": "Fauna y flora de bolivia",
-      "grupo": 3,
-      "posicion": 25
-    },
-    {
-      "id": 53,
-      "nombre_lamina": "Flora de bolivia",
-      "grupo": 3,
-      "posicion": 26
-    },
-    {
-      "id": 54,
-      "nombre_lamina": "Fauna de bolivia",
-      "grupo": 3,
-      "posicion": 27
-    },
-    {
-      "id": 55,
-      "nombre_lamina": "Animales carnivoros",
-      "grupo": 3,
-      "posicion": 28
-    },
-    {
-      "id": 56,
-      "nombre_lamina": "Cadena alimenticia o trofica",
-      "grupo": 3,
-      "posicion": 29
-    },
-    {
-      "id": 57,
-      "nombre_lamina": "La ganaderia en bolivia",
-      "grupo": 3,
-      "posicion": 30
-    },
-    {
-      "id": 58,
-      "nombre_lamina": "Calentamiento global",
-      "grupo": 3,
-      "posicion": 31
-    },
-    {
-      "id": 59,
-      "nombre_lamina": "Capa de ozono",
-      "grupo": 3,
-      "posicion": 32
-    },
-    {
-      "id": 60,
-      "nombre_lamina": "Las rocas",
-      "grupo": 3,
-      "posicion": 33
-    },
-    {
-      "id": 61,
-      "nombre_lamina": "Tipos de agua",
-      "grupo": 3,
-      "posicion": 34
-    },
-    {
-      "id": 62,
-      "nombre_lamina": "Arqueologia",
-      "grupo": 3,
-      "posicion": 35
-    },
-    {
-      "id": 63,
-      "nombre_lamina": "El ciclo del agua",
-      "grupo": 3,
-      "posicion": 36
-    },
-    {
-      "id": 64,
-      "nombre_lamina": "La Quinica",
-      "grupo": 5,
-      "posicion": 1
-    },
-    {
-      "id": 65,
-      "nombre_lamina": "fisica",
-      "grupo": 5,
-      "posicion": 2
-    },
-    {
-      "id": 66,
-      "nombre_lamina": "La materia",
-      "grupo": 5,
-      "posicion": 3
-    },
-    {
-      "id": 67,
-      "nombre_lamina": "El metro",
-      "grupo": 5,
-      "posicion": 4
-    },
-    {
-      "id": 68,
-      "nombre_lamina": "El litro",
-      "grupo": 5,
-      "posicion": 5
-    },
-    {
-      "id": 69,
-      "nombre_lamina": "El kilo o KIlogramo",
-      "grupo": 5,
-      "posicion": 6
-    },
-    {
-      "id": 70,
-      "nombre_lamina": "Usos del agua",
-      "grupo": 5,
-      "posicion": 7
-    },
-    {
-      "id": 71,
-      "nombre_lamina": "La biologia",
-      "grupo": 5,
-      "posicion": 8
-    },
-    {
-      "id": 72,
-      "nombre_lamina": "Corona virus",
-      "grupo": 5,
-      "posicion": 9
-    },
-    {
-      "id": 73,
-      "nombre_lamina": "Celula humana",
-      "grupo": 5,
-      "posicion": 10
-    },
-    {
-      "id": 74,
-      "nombre_lamina": "Celula Vegetal",
-      "grupo": 5,
-      "posicion": 11
-    },
-    {
-      "id": 75,
-      "nombre_lamina": "Celula Eucariotas y Procariotas",
-      "grupo": 5,
-      "posicion": 12
-    },
-    {
-      "id": 76,
-      "nombre_lamina": "Tipos y formas de  Celulas",
-      "grupo": 5,
-      "posicion": 13
-    },
-    {
-      "id": 77,
-      "nombre_lamina": "Celula Humana o Animal - Vegetal",
-      "grupo": 5,
-      "posicion": 14
-    },
-    {
-      "id": 78,
-      "nombre_lamina": "La Celula Humana y diferentes tipos de Celula",
-      "grupo": 5,
-      "posicion": 15
-    },
-    {
-      "id": 79,
-      "nombre_lamina": "El Corazon",
-      "grupo": 5,
-      "posicion": 16
-    },
-    {
-      "id": 80,
-      "nombre_lamina": "Sistema Nervioso",
-      "grupo": 5,
-      "posicion": 17
-    },
-    {
-      "id": 81,
-      "nombre_lamina": "Sistema Nervioso Central",
-      "grupo": 5,
-      "posicion": 18
-    },
-    {
-      "id": 82,
-      "nombre_lamina": "Sistema Endrocrino",
-      "grupo": 5,
-      "posicion": 19
-    },
-    {
-      "id": 83,
-      "nombre_lamina": "El Aparato Digestivo",
-      "grupo": 5,
-      "posicion": 20
-    },
-    {
-      "id": 84,
-      "nombre_lamina": "Sistema Muscular",
-      "grupo": 5,
-      "posicion": 21
-    },
-    {
-      "id": 85,
-      "nombre_lamina": "Tipos de Huesos",
-      "grupo": 5,
-      "posicion": 22
-    },
-    {
-      "id": 86,
-      "nombre_lamina": "Sistema Respiratorio",
-      "grupo": 5,
-      "posicion": 23
-    },
-    {
-      "id": 87,
-      "nombre_lamina": "Sistema Circulatorio",
-      "grupo": 5,
-      "posicion": 24
-    },
-    {
-      "id": 88,
-      "nombre_lamina": "Aparato Hurinario",
-      "grupo": 5,
-      "posicion": 25
-    },
-    {
-      "id": 89,
-      "nombre_lamina": "Huesos del Craneo",
-      "grupo": 5,
-      "posicion": 26
-    },
-    {
-      "id": 90,
-      "nombre_lamina": "Aparato Reproductor Masculino y Femenino",
-      "grupo": 5,
-      "posicion": 27
-    },
-    {
-      "id": 91,
-      "nombre_lamina": "El Cerebro",
-      "grupo": 5,
-      "posicion": 28
-    },
-    {
-      "id": 92,
-      "nombre_lamina": "El Embarazo",
-      "grupo": 5,
-      "posicion": 29
-    },
-    {
-      "id": 93,
-      "nombre_lamina": "Tipos y Formas de Musculos del Cuerpo Humano",
-      "grupo": 5,
-      "posicion": 30
-    },
-    {
-      "id": 94,
-      "nombre_lamina": "EL Cuerpo Humano",
-      "grupo": 5,
-      "posicion": 31
-    },
-    {
-      "id": 95,
-      "nombre_lamina": "Huesos del Esqueleto Humano",
-      "grupo": 5,
-      "posicion": 32
-    },
-    {
-      "id": 96,
-      "nombre_lamina": "Esqueleto Humano (2 vistas)",
-      "grupo": 5,
-      "posicion": 33
-    },
-    {
-      "id": 97,
-      "nombre_lamina": "Esqueleto Humano (3 vistas)",
-      "grupo": 5,
-      "posicion": 34
-    },
-    {
-      "id": 98,
-      "nombre_lamina": "Los Cinco Sentidos",
-      "grupo": 5,
-      "posicion": 35
-    },
-    {
-      "id": 99,
-      "nombre_lamina": "Sentido de la Vista",
-      "grupo": 5,
-      "posicion": 36
-    },
-    {
-      "id": 100,
-      "nombre_lamina": "Sistema del Gusto",
-      "grupo": 5,
-      "posicion": 37
-    },
-    {
-      "id": 101,
-      "nombre_lamina": "Sentido del Oido",
-      "grupo": 5,
-      "posicion": 38
-    },
-    {
-      "id": 102,
-      "nombre_lamina": "Sentido del Tacto",
-      "grupo": 5,
-      "posicion": 39
-    },
-    {
-      "id": 103,
-      "nombre_lamina": "Sentido del Olfato",
-      "grupo": 5,
-      "posicion": 40
-    },
-    {
-      "id": 104,
-      "nombre_lamina": "La Familia",
-      "grupo": 5,
-      "posicion": 41
-    },
-    {
-      "id": 105,
-      "nombre_lamina": "El Ciclo de la Vida",
-      "grupo": 5,
-      "posicion": 42
-    },
-    {
-      "id": 106,
-      "nombre_lamina": "Planificacion Familiar",
-      "grupo": 5,
-      "posicion": 43
-    },
-    {
-      "id": 107,
-      "nombre_lamina": "Los Dientes",
-      "grupo": 5,
-      "posicion": 44
-    },
-    {
-      "id": 108,
-      "nombre_lamina": "Complicaiones en el Embarazo",
-      "grupo": 5,
-      "posicion": 45
-    },
-    {
-      "id": 109,
-      "nombre_lamina": "Gestacion Humana",
-      "grupo": 5,
-      "posicion": 46
-    },
-    {
-      "id": 110,
-      "nombre_lamina": "Metodos Anticonceptivos",
-      "grupo": 5,
-      "posicion": 47
-    },
-    {
-      "id": 111,
-      "nombre_lamina": "Enfermedades del Sistema Nervioso",
-      "grupo": 5,
-      "posicion": 48
-    },
-    {
-      "id": 112,
-      "nombre_lamina": "Aparato Excretor",
-      "grupo": 5,
-      "posicion": 49
-    },
-    {
-      "id": 113,
-      "nombre_lamina": "Enfernedades del Sistema Excretor",
-      "grupo": 5,
-      "posicion": 50
-    },
-    {
-      "id": 114,
-      "nombre_lamina": "La Neurona",
-      "grupo": 5,
-      "posicion": 51
-    },
-    {
-      "id": 115,
-      "nombre_lamina": "Ontogenesis",
-      "grupo": 5,
-      "posicion": 52
-    },
-    {
-      "id": 116,
-      "nombre_lamina": "La Sangre",
-      "grupo": 5,
-      "posicion": 53
-    },
-    {
-      "id": 117,
-      "nombre_lamina": "Enfermerdades Venereas ( ETS en Varones)",
-      "grupo": 5,
-      "posicion": 54
-    },
-    {
-      "id": 118,
-      "nombre_lamina": "Las Glandulas",
-      "grupo": 5,
-      "posicion": 55
-    },
-    {
-      "id": 119,
-      "nombre_lamina": "Etapas de la Vida",
-      "grupo": 5,
-      "posicion": 56
-    },
-    {
-      "id": 120,
-      "nombre_lamina": "Cadena Alimenticia  o Trofica",
-      "grupo": 5,
-      "posicion": 57
-    },
-    {
-      "id": 121,
-      "nombre_lamina": "La Pubertad",
-      "grupo": 5,
-      "posicion": 58
-    },
-    {
-      "id": 122,
-      "nombre_lamina": "Las Hormonas",
-      "grupo": 5,
-      "posicion": 59
-    },
-    {
-      "id": 123,
-      "nombre_lamina": "El Aborto",
-      "grupo": 5,
-      "posicion": 60
-    },
-    {
-      "id": 124,
-      "nombre_lamina": "La Sexualidad Humana",
-      "grupo": 5,
-      "posicion": 61
-    },
-    {
-      "id": 125,
-      "nombre_lamina": "Enfermedades del Sistema Oseo y Articular",
-      "grupo": 5,
-      "posicion": 62
-    },
-    {
-      "id": 126,
-      "nombre_lamina": "El Microscopio",
-      "grupo": 5,
-      "posicion": 63
-    }
-  ]
+  {
+    "id": 1,
+    "nombre_lamina": "Medidas del tiempo",
+    "grupo": 1,
+    "posicion": 1
+  },
+  {
+    "id": 2,
+    "nombre_lamina": "El abecedario",
+    "grupo": 1,
+    "posicion": 2
+  },
+  {
+    "id": 3,
+    "nombre_lamina": "Numeros romanos",
+    "grupo": 1,
+    "posicion": 3
+  },
+  {
+    "id": 4,
+    "nombre_lamina": "Figuras geometricas",
+    "grupo": 1,
+    "posicion": 4
+  },
+  {
+    "id": 5,
+    "nombre_lamina": "Los numeros",
+    "grupo": 1,
+    "posicion": 5
+  },
+  {
+    "id": 6,
+    "nombre_lamina": "La flor",
+    "grupo": 1,
+    "posicion": 6
+  },
+  {
+    "id": 7,
+    "nombre_lamina": "La semilla",
+    "grupo": 1,
+    "posicion": 7
+  },
+  {
+    "id": 8,
+    "nombre_lamina": "La planta y sus partes",
+    "grupo": 1,
+    "posicion": 8
+  },
+  {
+    "id": 9,
+    "nombre_lamina": "Plantas en peligro de extincion",
+    "grupo": 1,
+    "posicion": 9
+  },
+  {
+    "id": 10,
+    "nombre_lamina": "Plantas ornamentales",
+    "grupo": 1,
+    "posicion": 10
+  },
+  {
+    "id": 11,
+    "nombre_lamina": "Plantas medicinales",
+    "grupo": 1,
+    "posicion": 11
+  },
+  {
+    "id": 12,
+    "nombre_lamina": "Plantas aereas, acuaticas terrestres",
+    "grupo": 1,
+    "posicion": 12
+  },
+  {
+    "id": 13,
+    "nombre_lamina": "Clases de madera en Bolivia",
+    "grupo": 1,
+    "posicion": 13
+  },
+  {
+    "id": 14,
+    "nombre_lamina": "Deforestacion",
+    "grupo": 1,
+    "posicion": 14
+  },
+  {
+    "id": 15,
+    "nombre_lamina": "Contaminacion: agua, suelo y aire",
+    "grupo": 1,
+    "posicion": 15
+  },
+  {
+    "id": 16,
+    "nombre_lamina": "Herramientas de carpinteria",
+    "grupo": 1,
+    "posicion": 16
+  },
+  {
+    "id": 17,
+    "nombre_lamina": "Artesania en Bolivia",
+    "grupo": 1,
+    "posicion": 17
+  },
+  {
+    "id": 18,
+    "nombre_lamina": "Arte contemporaneo en Bolivia",
+    "grupo": 1,
+    "posicion": 18
+  },
+  {
+    "id": 19,
+    "nombre_lamina": "Los oficios",
+    "grupo": 1,
+    "posicion": 19
+  },
+  {
+    "id": 20,
+    "nombre_lamina": "Las profesiones",
+    "grupo": 1,
+    "posicion": 20
+  },
+  {
+    "id": 21,
+    "nombre_lamina": "Artes plasticas",
+    "grupo": 1,
+    "posicion": 21
+  },
+  {
+    "id": 22,
+    "nombre_lamina": "Pinturas de mamani mamani",
+    "grupo": 1,
+    "posicion": 22
+  },
+  {
+    "id": 23,
+    "nombre_lamina": "Clasificacion de las plantas",
+    "grupo": 1,
+    "posicion": 23
+  },
+  {
+    "id": 24,
+    "nombre_lamina": "Paisajes artisticos",
+    "grupo": 1,
+    "posicion": 24
+  },
+  {
+    "id": 25,
+    "nombre_lamina": "Instrumentos musicales de viento",
+    "grupo": 2,
+    "posicion": 1
+  },
+  {
+    "id": 26,
+    "nombre_lamina": "Instrumentos musicales",
+    "grupo": 2,
+    "posicion": 2
+  },
+  {
+    "id": 27,
+    "nombre_lamina": "Danzas autoctonas de Bolivia",
+    "grupo": 2,
+    "posicion": 3
+  },
+  {
+    "id": 28,
+    "nombre_lamina": "El voleibol",
+    "grupo": 2,
+    "posicion": 4
+  },
+  {
+    "id": 29,
+    "nombre_lamina": "Medios de comunicacion",
+    "grupo": 2,
+    "posicion": 5
+  },
+  {
+    "id": 30,
+    "nombre_lamina": "La tecnologia",
+    "grupo": 2,
+    "posicion": 6
+  },
+  {
+    "id": 31,
+    "nombre_lamina": "Instrumentos de laboratorio",
+    "grupo": 2,
+    "posicion": 7
+  },
+  {
+    "id": 32,
+    "nombre_lamina": "El basquetbol",
+    "grupo": 2,
+    "posicion": 8
+  },
+  {
+    "id": 33,
+    "nombre_lamina": "La computadora y sus componentes",
+    "grupo": 2,
+    "posicion": 9
+  },
+  {
+    "id": 34,
+    "nombre_lamina": "Ultimos avances tecnologicos",
+    "grupo": 2,
+    "posicion": 10
+  },
+  {
+    "id": 35,
+    "nombre_lamina": "Servicios publicos",
+    "grupo": 2,
+    "posicion": 11
+  },
+  {
+    "id": 36,
+    "nombre_lamina": "Medios de transporte",
+    "grupo": 2,
+    "posicion": 12
+  },
+  {
+    "id": 37,
+    "nombre_lamina": "Educacion vial",
+    "grupo": 2,
+    "posicion": 13
+  },
+  {
+    "id": 38,
+    "nombre_lamina": "Derivados del petroleo",
+    "grupo": 2,
+    "posicion": 14
+  },
+  {
+    "id": 39,
+    "nombre_lamina": "Los electrodomesticos",
+    "grupo": 2,
+    "posicion": 15
+  },
+  {
+    "id": 40,
+    "nombre_lamina": "El futbol",
+    "grupo": 2,
+    "posicion": 16
+  },
+  {
+    "id": 41,
+    "nombre_lamina": "El futsal",
+    "grupo": 2,
+    "posicion": 17
+  },
+  {
+    "id": 42,
+    "nombre_lamina": "Gimnasia",
+    "grupo": 2,
+    "posicion": 18
+  },
+  {
+    "id": 43,
+    "nombre_lamina": "Atletismo",
+    "grupo": 2,
+    "posicion": 19
+  },
+  {
+    "id": 44,
+    "nombre_lamina": "Deportes",
+    "grupo": 2,
+    "posicion": 20
+  },
+  {
+    "id": 45,
+    "nombre_lamina": "Primeros auxilios",
+    "grupo": 2,
+    "posicion": 21
+  },
+  {
+    "id": 46,
+    "nombre_lamina": "Pisos ecologicos de bolivia",
+    "grupo": 3,
+    "posicion": 1
+  },
+  {
+    "id": 47,
+    "nombre_lamina": "Los seres vivos",
+    "grupo": 3,
+    "posicion": 2
+  },
+  {
+    "id": 48,
+    "nombre_lamina": "Clasificacion de los peces",
+    "grupo": 3,
+    "posicion": 3
+  },
+  {
+    "id": 49,
+    "nombre_lamina": "Animales salvajes",
+    "grupo": 3,
+    "posicion": 4
+  },
+  {
+    "id": 50,
+    "nombre_lamina": "Los insectos",
+    "grupo": 3,
+    "posicion": 5
+  },
+  {
+    "id": 51,
+    "nombre_lamina": "Animales en peligro de extincion",
+    "grupo": 3,
+    "posicion": 6
+  },
+  {
+    "id": 52,
+    "nombre_lamina": "Clasificacion de las aves",
+    "grupo": 3,
+    "posicion": 7
+  },
+  {
+    "id": 53,
+    "nombre_lamina": "Animales domesticos",
+    "grupo": 3,
+    "posicion": 8
+  },
+  {
+    "id": 54,
+    "nombre_lamina": "Animales vertebrados",
+    "grupo": 3,
+    "posicion": 9
+  },
+  {
+    "id": 55,
+    "nombre_lamina": "Animales prehistoricos",
+    "grupo": 3,
+    "posicion": 10
+  },
+  {
+    "id": 56,
+    "nombre_lamina": "Animales invertebrados",
+    "grupo": 3,
+    "posicion": 11
+  },
+  {
+    "id": 57,
+    "nombre_lamina": "Desastres naturales",
+    "grupo": 3,
+    "posicion": 12
+  },
+  {
+    "id": 58,
+    "nombre_lamina": "Anatomia de los mamiferos",
+    "grupo": 3,
+    "posicion": 13
+  },
+  {
+    "id": 59,
+    "nombre_lamina": "Los ecosistemas",
+    "grupo": 3,
+    "posicion": 14
+  },
+  {
+    "id": 60,
+    "nombre_lamina": "Pachamama",
+    "grupo": 3,
+    "posicion": 15
+  },
+  {
+    "id": 61,
+    "nombre_lamina": "Los 4 elementos de la naturaleza",
+    "grupo": 3,
+    "posicion": 16
+  },
+  {
+    "id": 62,
+    "nombre_lamina": "El medio ambiente",
+    "grupo": 3,
+    "posicion": 17
+  },
+  {
+    "id": 63,
+    "nombre_lamina": "Las cuatro estaciones",
+    "grupo": 3,
+    "posicion": 18
+  },
+  {
+    "id": 64,
+    "nombre_lamina": "El suelo",
+    "grupo": 3,
+    "posicion": 19
+  },
+  {
+    "id": 65,
+    "nombre_lamina": "Los minerales",
+    "grupo": 3,
+    "posicion": 20
+  },
+  {
+    "id": 66,
+    "nombre_lamina": "La mineria en bolivia",
+    "grupo": 3,
+    "posicion": 21
+  },
+  {
+    "id": 67,
+    "nombre_lamina": "El volcan y tipos de volcanes",
+    "grupo": 3,
+    "posicion": 22
+  },
+  {
+    "id": 68,
+    "nombre_lamina": "La biodiversidad",
+    "grupo": 3,
+    "posicion": 23
+  },
+  {
+    "id": 69,
+    "nombre_lamina": "Oviparos, viviparos y ovoviviparos",
+    "grupo": 3,
+    "posicion": 24
+  },
+  {
+    "id": 70,
+    "nombre_lamina": "Fauna y flora de Bolivia",
+    "grupo": 3,
+    "posicion": 25
+  },
+  {
+    "id": 71,
+    "nombre_lamina": "Flora de Bolivia",
+    "grupo": 3,
+    "posicion": 26
+  },
+  {
+    "id": 72,
+    "nombre_lamina": "Fauna de Bolivia",
+    "grupo": 3,
+    "posicion": 27
+  },
+  {
+    "id": 73,
+    "nombre_lamina": "Animales carnivoros",
+    "grupo": 3,
+    "posicion": 28
+  },
+  {
+    "id": 74,
+    "nombre_lamina": "Cadena alimenticia o trofica",
+    "grupo": 3,
+    "posicion": 29
+  },
+  {
+    "id": 75,
+    "nombre_lamina": "La ganaderia en Bolivia",
+    "grupo": 3,
+    "posicion": 30
+  },
+  {
+    "id": 76,
+    "nombre_lamina": "Calentamiento global",
+    "grupo": 3,
+    "posicion": 31
+  },
+  {
+    "id": 77,
+    "nombre_lamina": "Capa de ozono",
+    "grupo": 3,
+    "posicion": 32
+  },
+  {
+    "id": 78,
+    "nombre_lamina": "Las rocas",
+    "grupo": 3,
+    "posicion": 33
+  },
+  {
+    "id": 79,
+    "nombre_lamina": "Tipos de agua",
+    "grupo": 3,
+    "posicion": 34
+  },
+  {
+    "id": 80,
+    "nombre_lamina": "Arqueologia",
+    "grupo": 3,
+    "posicion": 35
+  },
+  {
+    "id": 81,
+    "nombre_lamina": "El ciclo del agua",
+    "grupo": 3,
+    "posicion": 36
+  },
+  {
+    "id": 82,
+    "nombre_lamina": "Piramide Alimenticia",
+    "grupo": 4,
+    "posicion": 1
+  },
+  {
+    "id": 83,
+    "nombre_lamina": "Ruerda y Piramide Alimenticias",
+    "grupo": 4,
+    "posicion": 2
+  },
+  {
+    "id": 84,
+    "nombre_lamina": "Los Alimentos",
+    "grupo": 4,
+    "posicion": 3
+  },
+  {
+    "id": 85,
+    "nombre_lamina": "La Nutricion",
+    "grupo": 4,
+    "posicion": 4
+  },
+  {
+    "id": 86,
+    "nombre_lamina": "Nutricion y Salud",
+    "grupo": 4,
+    "posicion": 5
+  },
+  {
+    "id": 87,
+    "nombre_lamina": "Las Frutas",
+    "grupo": 4,
+    "posicion": 6
+  },
+  {
+    "id": 88,
+    "nombre_lamina": "Las Verduras",
+    "grupo": 4,
+    "posicion": 7
+  },
+  {
+    "id": 89,
+    "nombre_lamina": "Platos Tipicos de Bolivia",
+    "grupo": 4,
+    "posicion": 8
+  },
+  {
+    "id": 90,
+    "nombre_lamina": "Alimentos Transgenicos",
+    "grupo": 4,
+    "posicion": 9
+  },
+  {
+    "id": 91,
+    "nombre_lamina": "La Quimica",
+    "grupo": 5,
+    "posicion": 1
+  },
+  {
+    "id": 92,
+    "nombre_lamina": "fisica",
+    "grupo": 5,
+    "posicion": 2
+  },
+  {
+    "id": 93,
+    "nombre_lamina": "La materia",
+    "grupo": 5,
+    "posicion": 3
+  },
+  {
+    "id": 94,
+    "nombre_lamina": "El metro",
+    "grupo": 5,
+    "posicion": 4
+  },
+  {
+    "id": 95,
+    "nombre_lamina": "El litro",
+    "grupo": 5,
+    "posicion": 5
+  },
+  {
+    "id": 96,
+    "nombre_lamina": "El kilo o KIlogramo",
+    "grupo": 5,
+    "posicion": 6
+  },
+  {
+    "id": 97,
+    "nombre_lamina": "Usos del agua",
+    "grupo": 5,
+    "posicion": 7
+  },
+  {
+    "id": 98,
+    "nombre_lamina": "La biologia",
+    "grupo": 5,
+    "posicion": 8
+  },
+  {
+    "id": 99,
+    "nombre_lamina": "Corona virus",
+    "grupo": 5,
+    "posicion": 9
+  },
+  {
+    "id": 100,
+    "nombre_lamina": "Celula humana",
+    "grupo": 5,
+    "posicion": 10
+  },
+  {
+    "id": 101,
+    "nombre_lamina": "Celula Vegetal",
+    "grupo": 5,
+    "posicion": 11
+  },
+  {
+    "id": 102,
+    "nombre_lamina": "Celula Eucariotas y Procariotas",
+    "grupo": 5,
+    "posicion": 12
+  },
+  {
+    "id": 103,
+    "nombre_lamina": "Tipos y formas de  Celulas",
+    "grupo": 5,
+    "posicion": 13
+  },
+  {
+    "id": 104,
+    "nombre_lamina": "Celula Humana o Animal - Vegetal",
+    "grupo": 5,
+    "posicion": 14
+  },
+  {
+    "id": 105,
+    "nombre_lamina": "La Celula Humana y diferentes tipos de Celula",
+    "grupo": 5,
+    "posicion": 15
+  },
+  {
+    "id": 106,
+    "nombre_lamina": "El Corazon",
+    "grupo": 5,
+    "posicion": 16
+  },
+  {
+    "id": 107,
+    "nombre_lamina": "Sistema Nervioso",
+    "grupo": 5,
+    "posicion": 17
+  },
+  {
+    "id": 108,
+    "nombre_lamina": "Sistema Nervioso Central",
+    "grupo": 5,
+    "posicion": 18
+  },
+  {
+    "id": 109,
+    "nombre_lamina": "Sistema Endrocrino",
+    "grupo": 5,
+    "posicion": 19
+  },
+  {
+    "id": 110,
+    "nombre_lamina": "El Aparato Digestivo",
+    "grupo": 5,
+    "posicion": 20
+  },
+  {
+    "id": 111,
+    "nombre_lamina": "Sistema Muscular",
+    "grupo": 5,
+    "posicion": 21
+  },
+  {
+    "id": 112,
+    "nombre_lamina": "Tipos de Huesos",
+    "grupo": 5,
+    "posicion": 22
+  },
+  {
+    "id": 113,
+    "nombre_lamina": "Sistema Respiratorio",
+    "grupo": 5,
+    "posicion": 23
+  },
+  {
+    "id": 114,
+    "nombre_lamina": "Sistema Circulatorio",
+    "grupo": 5,
+    "posicion": 24
+  },
+  {
+    "id": 115,
+    "nombre_lamina": "Aparato Hurinario",
+    "grupo": 5,
+    "posicion": 25
+  },
+  {
+    "id": 116,
+    "nombre_lamina": "Huesos del Craneo",
+    "grupo": 5,
+    "posicion": 26
+  },
+  {
+    "id": 117,
+    "nombre_lamina": "Aparato Reproductor Masculino y Femenino",
+    "grupo": 5,
+    "posicion": 27
+  },
+  {
+    "id": 118,
+    "nombre_lamina": "El Cerebro",
+    "grupo": 5,
+    "posicion": 28
+  },
+  {
+    "id": 119,
+    "nombre_lamina": "El Embarazo",
+    "grupo": 5,
+    "posicion": 29
+  },
+  {
+    "id": 120,
+    "nombre_lamina": "Tipos y Formas de Musculos del Cuerpo Humano",
+    "grupo": 5,
+    "posicion": 30
+  },
+  {
+    "id": 121,
+    "nombre_lamina": "EL Cuerpo Humano",
+    "grupo": 5,
+    "posicion": 31
+  },
+  {
+    "id": 122,
+    "nombre_lamina": "Huesos del Esqueleto Humano",
+    "grupo": 5,
+    "posicion": 32
+  },
+  {
+    "id": 123,
+    "nombre_lamina": "Esqueleto Humano (2 vistas)",
+    "grupo": 5,
+    "posicion": 33
+  },
+  {
+    "id": 124,
+    "nombre_lamina": "Esqueleto Humano (3 vistas)",
+    "grupo": 5,
+    "posicion": 34
+  },
+  {
+    "id": 125,
+    "nombre_lamina": "Los Cinco Sentidos",
+    "grupo": 5,
+    "posicion": 35
+  },
+  {
+    "id": 126,
+    "nombre_lamina": "Sentido de la Vista",
+    "grupo": 5,
+    "posicion": 36
+  },
+  {
+    "id": 127,
+    "nombre_lamina": "Sistema del Gusto",
+    "grupo": 5,
+    "posicion": 37
+  },
+  {
+    "id": 128,
+    "nombre_lamina": "Sentido del Oido",
+    "grupo": 5,
+    "posicion": 38
+  },
+  {
+    "id": 129,
+    "nombre_lamina": "Sentido del Tacto",
+    "grupo": 5,
+    "posicion": 39
+  },
+  {
+    "id": 130,
+    "nombre_lamina": "Sentido del Olfato",
+    "grupo": 5,
+    "posicion": 40
+  },
+  {
+    "id": 131,
+    "nombre_lamina": "La Familia",
+    "grupo": 5,
+    "posicion": 41
+  },
+  {
+    "id": 132,
+    "nombre_lamina": "El Ciclo de la Vida",
+    "grupo": 5,
+    "posicion": 42
+  },
+  {
+    "id": 133,
+    "nombre_lamina": "Planificacion Familiar",
+    "grupo": 5,
+    "posicion": 43
+  },
+  {
+    "id": 134,
+    "nombre_lamina": "Los Dientes",
+    "grupo": 5,
+    "posicion": 44
+  },
+  {
+    "id": 135,
+    "nombre_lamina": "Complicaiones en el Embarazo",
+    "grupo": 5,
+    "posicion": 45
+  },
+  {
+    "id": 136,
+    "nombre_lamina": "Gestacion Humana",
+    "grupo": 5,
+    "posicion": 46
+  },
+  {
+    "id": 137,
+    "nombre_lamina": "Metodos Anticonceptivos",
+    "grupo": 5,
+    "posicion": 47
+  },
+  {
+    "id": 138,
+    "nombre_lamina": "Enfermedades del Sistema Nervioso",
+    "grupo": 5,
+    "posicion": 48
+  },
+  {
+    "id": 139,
+    "nombre_lamina": "Aparato Excretor",
+    "grupo": 5,
+    "posicion": 49
+  },
+  {
+    "id": 140,
+    "nombre_lamina": "Enfernedades del Sistema Excretor",
+    "grupo": 5,
+    "posicion": 50
+  },
+  {
+    "id": 141,
+    "nombre_lamina": "La Neurona",
+    "grupo": 5,
+    "posicion": 51
+  },
+  {
+    "id": 142,
+    "nombre_lamina": "Ontogenesis",
+    "grupo": 5,
+    "posicion": 52
+  },
+  {
+    "id": 143,
+    "nombre_lamina": "La Sangre",
+    "grupo": 5,
+    "posicion": 53
+  },
+  {
+    "id": 144,
+    "nombre_lamina": "Enfermerdades Venereas ( ETS en Varones)",
+    "grupo": 5,
+    "posicion": 54
+  },
+  {
+    "id": 145,
+    "nombre_lamina": "Las Glandulas",
+    "grupo": 5,
+    "posicion": 55
+  },
+  {
+    "id": 146,
+    "nombre_lamina": "Etapas de la Vida",
+    "grupo": 5,
+    "posicion": 56
+  },
+  {
+    "id": 147,
+    "nombre_lamina": "Cadena Alimenticia  o Trofica",
+    "grupo": 5,
+    "posicion": 57
+  },
+  {
+    "id": 148,
+    "nombre_lamina": "La Pubertad",
+    "grupo": 5,
+    "posicion": 58
+  },
+  {
+    "id": 149,
+    "nombre_lamina": "Las Hormonas",
+    "grupo": 5,
+    "posicion": 59
+  },
+  {
+    "id": 150,
+    "nombre_lamina": "El Aborto",
+    "grupo": 5,
+    "posicion": 60
+  },
+  {
+    "id": 151,
+    "nombre_lamina": "La Sexualidad Humana",
+    "grupo": 5,
+    "posicion": 61
+  },
+  {
+    "id": 152,
+    "nombre_lamina": "Enfermedades del Sistema Oseo y Articular",
+    "grupo": 5,
+    "posicion": 62
+  },
+  {
+    "id": 153,
+    "nombre_lamina": "El Microscopio",
+    "grupo": 5,
+    "posicion": 63
+  },
+  {
+    "id": 154,
+    "nombre_lamina": "8 de Marzo - Dia Internacional de la Mujer (2 tipos)",
+    "grupo": 6,
+    "posicion": 1
+  },
+  {
+    "id": 155,
+    "nombre_lamina": "Dia del Agua - 22 de Marzo",
+    "grupo": 6,
+    "posicion": 2
+  },
+  {
+    "id": 156,
+    "nombre_lamina": "Dia del Padre - 19 de Marzo",
+    "grupo": 6,
+    "posicion": 3
+  },
+  {
+    "id": 157,
+    "nombre_lamina": "Dia de la Madre Tierra - 22 de Abril",
+    "grupo": 6,
+    "posicion": 4
+  },
+  {
+    "id": 158,
+    "nombre_lamina": "Dia del Mar - 23 de Marzo",
+    "grupo": 6,
+    "posicion": 5
+  },
+  {
+    "id": 159,
+    "nombre_lamina": "Dia del Padre, Dia del Radialista y Dia del Carpintero",
+    "grupo": 6,
+    "posicion": 6
+  },
+  {
+    "id": 160,
+    "nombre_lamina": "Heroes de la Guerra del Pacifico - 23 de Marzo",
+    "grupo": 6,
+    "posicion": 7
+  },
+  {
+    "id": 161,
+    "nombre_lamina": "Dia del Radialista y TV",
+    "grupo": 6,
+    "posicion": 8
+  },
+  {
+    "id": 162,
+    "nombre_lamina": "Dia del Trabajo - 1 de Mayo",
+    "grupo": 6,
+    "posicion": 9
+  },
+  {
+    "id": 163,
+    "nombre_lamina": "27 de Mayo Dia de la Madre",
+    "grupo": 6,
+    "posicion": 10
+  },
+  {
+    "id": 164,
+    "nombre_lamina": "Dia Mundial del Medio Ambiente - 5 de Junio",
+    "grupo": 6,
+    "posicion": 11
+  },
+  {
+    "id": 165,
+    "nombre_lamina": "Dia de los Pueblos Indigenas Origirarios - 2 de Agosto",
+    "grupo": 6,
+    "posicion": 12
+  },
+  {
+    "id": 166,
+    "nombre_lamina": "La Reforma Agraria y La Ley Inra - 2 de Agosto",
+    "grupo": 6,
+    "posicion": 13
+  },
+  {
+    "id": 167,
+    "nombre_lamina": "Dia del Adulto Mayor en Bolivia - 26 de Agosto",
+    "grupo": 6,
+    "posicion": 14
+  },
+  {
+    "id": 168,
+    "nombre_lamina": "Dia de la Primavera - 21 de Septiembre",
+    "grupo": 6,
+    "posicion": 15
+  },
+  {
+    "id": 169,
+    "nombre_lamina": "Dia del Arbol en Bolivia - 1 de Octubre",
+    "grupo": 6,
+    "posicion": 16
+  },
+  {
+    "id": 170,
+    "nombre_lamina": "Dia del Estudiante - 21 de Septiembre",
+    "grupo": 6,
+    "posicion": 17
+  },
+  {
+    "id": 171,
+    "nombre_lamina": "Revolucion de Santa Cruz - 24 de Septiembre de 1810",
+    "grupo": 6,
+    "posicion": 18
+  },
+  {
+    "id": 172,
+    "nombre_lamina": "Dia de la Mujer Boliviana - 11 de Octubre",
+    "grupo": 6,
+    "posicion": 19
+  },
+  {
+    "id": 173,
+    "nombre_lamina": "Dia Mundial de las Personas de Talla Baja - 25 de Octubre",
+    "grupo": 6,
+    "posicion": 20
+  },
+  {
+    "id": 174,
+    "nombre_lamina": "Halloween - 21 de Octubre",
+    "grupo": 6,
+    "posicion": 21
+  },
+  {
+    "id": 175,
+    "nombre_lamina": "Fiesta de Todos los Santos 1 y 2 de Noviembre",
+    "grupo": 6,
+    "posicion": 22
+  },
+  {
+    "id": 176,
+    "nombre_lamina": "Dia del Niño - 12 de Abril",
+    "grupo": 6,
+    "posicion": 23
+  },
+  {
+    "id": 177,
+    "nombre_lamina": "La Familia (2 tipos)",
+    "grupo": 6,
+    "posicion": 24
+  },
+  {
+    "id": 178,
+    "nombre_lamina": "Dia de las Fuerzas Armadas",
+    "grupo": 6,
+    "posicion": 25
+  },
+  {
+    "id": 179,
+    "nombre_lamina": "Dia Nacional del Peaton y del Ciclista",
+    "grupo": 6,
+    "posicion": 26
+  },
+  {
+    "id": 180,
+    "nombre_lamina": "Aniversario de Cochabamba - 14 de Septiembre",
+    "grupo": 6,
+    "posicion": 27
+  },
+  {
+    "id": 181,
+    "nombre_lamina": "Aniversario de Pando - 24 de Septiembre",
+    "grupo": 6,
+    "posicion": 28
+  },
+  {
+    "id": 182,
+    "nombre_lamina": "Dia de la Alfabetizacion - 8 de Septiembre",
+    "grupo": 6,
+    "posicion": 29
+  },
+  {
+    "id": 183,
+    "nombre_lamina": "Dia de la Raza - 12 de Octubre",
+    "grupo": 6,
+    "posicion": 30
+  },
+  {
+    "id": 184,
+    "nombre_lamina": "Dia del Maestro - 6 de Junio",
+    "grupo": 6,
+    "posicion": 31
+  },
+  {
+    "id": 185,
+    "nombre_lamina": "Año Nuevo",
+    "grupo": 6,
+    "posicion": 32
+  },
+  {
+    "id": 186,
+    "nombre_lamina": "Alasitas (El Ekeko)",
+    "grupo": 6,
+    "posicion": 33
+  },
+  {
+    "id": 187,
+    "nombre_lamina": "El Cristianismo",
+    "grupo": 6,
+    "posicion": 34
+  },
+  {
+    "id": 188,
+    "nombre_lamina": "Los 12 Apostoles",
+    "grupo": 6,
+    "posicion": 35
+  },
+  {
+    "id": 189,
+    "nombre_lamina": "La Semana Santa",
+    "grupo": 6,
+    "posicion": 36
+  },
+  {
+    "id": 190,
+    "nombre_lamina": "Deberes de los Niños",
+    "grupo": 7,
+    "posicion": 1
+  },
+  {
+    "id": 191,
+    "nombre_lamina": "Derechos del Niño",
+    "grupo": 7,
+    "posicion": 2
+  },
+  {
+    "id": 192,
+    "nombre_lamina": "El Tabaquismo",
+    "grupo": 7,
+    "posicion": 3
+  },
+  {
+    "id": 193,
+    "nombre_lamina": "Enfermedades I",
+    "grupo": 7,
+    "posicion": 4
+  },
+  {
+    "id": 194,
+    "nombre_lamina": "La Drogadiccion",
+    "grupo": 7,
+    "posicion": 5
+  },
+  {
+    "id": 195,
+    "nombre_lamina": "La Desnutricion",
+    "grupo": 7,
+    "posicion": 6
+  },
+  {
+    "id": 196,
+    "nombre_lamina": "Tipos de Drogas",
+    "grupo": 7,
+    "posicion": 7
+  },
+  {
+    "id": 197,
+    "nombre_lamina": "Tipos de Obesidad - La Obesidad (2 tipos)",
+    "grupo": 7,
+    "posicion": 8
+  },
+  {
+    "id": 198,
+    "nombre_lamina": "La Discapacidad",
+    "grupo": 7,
+    "posicion": 9
+  },
+  {
+    "id": 199,
+    "nombre_lamina": "Trata y Trafico de Personas",
+    "grupo": 7,
+    "posicion": 10
+  },
+  {
+    "id": 200,
+    "nombre_lamina": "El Aseo Personal",
+    "grupo": 7,
+    "posicion": 11
+  },
+  {
+    "id": 201,
+    "nombre_lamina": "La Higiene",
+    "grupo": 7,
+    "posicion": 12
+  },
+  {
+    "id": 202,
+    "nombre_lamina": "Tipos de Violencia",
+    "grupo": 7,
+    "posicion": 13
+  },
+  {
+    "id": 203,
+    "nombre_lamina": "Las Fobias",
+    "grupo": 7,
+    "posicion": 14
+  },
+  {
+    "id": 204,
+    "nombre_lamina": "Violencia Domestica o Intrafamiliar",
+    "grupo": 7,
+    "posicion": 15
+  },
+  {
+    "id": 205,
+    "nombre_lamina": "Equidad de Genero",
+    "grupo": 7,
+    "posicion": 16
+  },
+  {
+    "id": 206,
+    "nombre_lamina": "Seguridad Ciudadana",
+    "grupo": 7,
+    "posicion": 17
+  },
+  {
+    "id": 207,
+    "nombre_lamina": "Trafico de Organos",
+    "grupo": 7,
+    "posicion": 18
+  },
+  {
+    "id": 208,
+    "nombre_lamina": "El Virus",
+    "grupo": 7,
+    "posicion": 19
+  },
+  {
+    "id": 209,
+    "nombre_lamina": "Las Bacterias",
+    "grupo": 7,
+    "posicion": 20
+  },
+  {
+    "id": 210,
+    "nombre_lamina": "Hongos",
+    "grupo": 7,
+    "posicion": 21
+  },
+  {
+    "id": 211,
+    "nombre_lamina": "ABYA YALA Primeros asentamientos",
+    "grupo": 8,
+    "posicion": 1
+  },
+  {
+    "id": 212,
+    "nombre_lamina": "Cristobal Colon",
+    "grupo": 8,
+    "posicion": 2
+  },
+  {
+    "id": 213,
+    "nombre_lamina": "Los 4 viajes de Colon (12 de octubre de 1492)",
+    "grupo": 8,
+    "posicion": 3
+  },
+  {
+    "id": 214,
+    "nombre_lamina": "Culturas de America",
+    "grupo": 8,
+    "posicion": 4
+  },
+  {
+    "id": 215,
+    "nombre_lamina": "Cultura Tiwanakota",
+    "grupo": 8,
+    "posicion": 5
+  },
+  {
+    "id": 216,
+    "nombre_lamina": "Arte Tiwanakota - Escultura y Arquitectura",
+    "grupo": 8,
+    "posicion": 6
+  },
+  {
+    "id": 217,
+    "nombre_lamina": "Cultura Inca",
+    "grupo": 8,
+    "posicion": 7
+  },
+  {
+    "id": 218,
+    "nombre_lamina": "Cultura Maya",
+    "grupo": 8,
+    "posicion": 8
+  },
+  {
+    "id": 219,
+    "nombre_lamina": "Cultura Chipaya (Urus Chipaya)",
+    "grupo": 8,
+    "posicion": 9
+  },
+  {
+    "id": 220,
+    "nombre_lamina": "Cultura Viscachani",
+    "grupo": 8,
+    "posicion": 10
+  },
+  {
+    "id": 221,
+    "nombre_lamina": "Cultura Azteca",
+    "grupo": 8,
+    "posicion": 11
+  },
+  {
+    "id": 222,
+    "nombre_lamina": "Zona occidental o andina",
+    "grupo": 8,
+    "posicion": 12
+  },
+  {
+    "id": 223,
+    "nombre_lamina": "Zona subandina o de los valles",
+    "grupo": 8,
+    "posicion": 13
+  },
+  {
+    "id": 224,
+    "nombre_lamina": "Cordillera central, occidental y oriental",
+    "grupo": 8,
+    "posicion": 14
+  },
+  {
+    "id": 225,
+    "nombre_lamina": "Cuenca del Amazonas, Plata y Altiplanica",
+    "grupo": 8,
+    "posicion": 15
+  },
+  {
+    "id": 226,
+    "nombre_lamina": "Areas protegidas de Bolivia",
+    "grupo": 8,
+    "posicion": 16
+  },
+  {
+    "id": 227,
+    "nombre_lamina": "Recursos Naturales No renobables de Bolivia",
+    "grupo": 8,
+    "posicion": 17
+  },
+  {
+    "id": 228,
+    "nombre_lamina": "Recusos Naturales Renovables de Bolivia",
+    "grupo": 8,
+    "posicion": 18
+  },
+  {
+    "id": 229,
+    "nombre_lamina": "Recursos Naturales de Bolivia",
+    "grupo": 8,
+    "posicion": 19
+  },
+  {
+    "id": 230,
+    "nombre_lamina": "Las tres Zonas Geografica de Bolivia",
+    "grupo": 8,
+    "posicion": 20
+  },
+  {
+    "id": 231,
+    "nombre_lamina": "La Iglesia en la Edad Media",
+    "grupo": 8,
+    "posicion": 21
+  },
+  {
+    "id": 232,
+    "nombre_lamina": "La Cultura Quechua",
+    "grupo": 8,
+    "posicion": 22
+  },
+  {
+    "id": 233,
+    "nombre_lamina": "Cultura Chiripa",
+    "grupo": 8,
+    "posicion": 23
+  },
+  {
+    "id": 234,
+    "nombre_lamina": "Cultura Wankarani",
+    "grupo": 8,
+    "posicion": 24
+  },
+  {
+    "id": 235,
+    "nombre_lamina": "Antiguas Culturas en Bolivia",
+    "grupo": 8,
+    "posicion": 25
+  },
+  {
+    "id": 236,
+    "nombre_lamina": "Cultura Guarani",
+    "grupo": 8,
+    "posicion": 26
+  },
+  {
+    "id": 237,
+    "nombre_lamina": "Juana Azurduy de Padilla",
+    "grupo": 9,
+    "posicion": 1
+  },
+  {
+    "id": 238,
+    "nombre_lamina": "La Wiphala",
+    "grupo": 9,
+    "posicion": 2
+  },
+  {
+    "id": 239,
+    "nombre_lamina": "Tupac Katari (Levantamientos Indiguenas)",
+    "grupo": 9,
+    "posicion": 3
+  },
+  {
+    "id": 240,
+    "nombre_lamina": "La Descolonizacion en Bolivia",
+    "grupo": 9,
+    "posicion": 4
+  },
+  {
+    "id": 241,
+    "nombre_lamina": "Biografia de Evo Morales Ayma",
+    "grupo": 9,
+    "posicion": 5
+  },
+  {
+    "id": 242,
+    "nombre_lamina": "Octubre Negro - Guerra del Gas",
+    "grupo": 9,
+    "posicion": 6
+  },
+  {
+    "id": 243,
+    "nombre_lamina": "Las 36 Etnias de Bolivia",
+    "grupo": 9,
+    "posicion": 7
+  },
+  {
+    "id": 244,
+    "nombre_lamina": "La Pobreza en Bolivia",
+    "grupo": 9,
+    "posicion": 8
+  },
+  {
+    "id": 245,
+    "nombre_lamina": "Biografia de Luis Alberto Arce Catacora",
+    "grupo": 9,
+    "posicion": 9
+  },
+  {
+    "id": 246,
+    "nombre_lamina": "Los 4 Organos del Estado Plurinacional de Bolivia",
+    "grupo": 9,
+    "posicion": 10
+  },
+  {
+    "id": 247,
+    "nombre_lamina": "Autoridades Originarias de la Cultura Andina",
+    "grupo": 9,
+    "posicion": 11
+  },
+  {
+    "id": 248,
+    "nombre_lamina": "Alcaldes de Bolivia 2021-2026",
+    "grupo": 9,
+    "posicion": 12
+  },
+  {
+    "id": 249,
+    "nombre_lamina": "Gobernadores de Bolivia 2021-2026",
+    "grupo": 9,
+    "posicion": 13
+  },
+  {
+    "id": 250,
+    "nombre_lamina": "Mapa Etnolinguistico de Bolivia",
+    "grupo": 9,
+    "posicion": 14
+  },
+  {
+    "id": 251,
+    "nombre_lamina": "Tradiciones y Costumbres de Bolivia",
+    "grupo": 9,
+    "posicion": 15
+  },
+  {
+    "id": 252,
+    "nombre_lamina": "Los Protomartires de la Independencia",
+    "grupo": 9,
+    "posicion": 16
+  },
+  {
+    "id": 253,
+    "nombre_lamina": "Año Nuevo Aymara - Ceremonia",
+    "grupo": 9,
+    "posicion": 17
+  },
+  {
+    "id": 254,
+    "nombre_lamina": "Año Nuevo Aymara - Calendario",
+    "grupo": 9,
+    "posicion": 18
+  },
+  {
+    "id": 255,
+    "nombre_lamina": "Fiesta Tradicional de San Juan",
+    "grupo": 9,
+    "posicion": 19
+  },
+  {
+    "id": 256,
+    "nombre_lamina": "Historia de Fundacion de La Paz",
+    "grupo": 10,
+    "posicion": 1
+  },
+  {
+    "id": 257,
+    "nombre_lamina": "17 de Agosto Dia de la Bandera - Historia de las Banderas y escudos patrios",
+    "grupo": 10,
+    "posicion": 2
+  },
+  {
+    "id": 258,
+    "nombre_lamina": "17 de Agosto - Historia de la Bandera de Bolivia",
+    "grupo": 10,
+    "posicion": 3
+  },
+  {
+    "id": 259,
+    "nombre_lamina": "Dia de la Bandera de Bolivia",
+    "grupo": 10,
+    "posicion": 4
+  },
+  {
+    "id": 260,
+    "nombre_lamina": "Turismo en Bolivia I - II",
+    "grupo": 10,
+    "posicion": 5
+  },
+  {
+    "id": 261,
+    "nombre_lamina": "Asi es mi La Paz",
+    "grupo": 10,
+    "posicion": 6
+  },
+  {
+    "id": 262,
+    "nombre_lamina": "Revolucion de La Paz (16 de Julio)",
+    "grupo": 10,
+    "posicion": 7
+  },
+  {
+    "id": 263,
+    "nombre_lamina": "Aniversario de La Paz (16 de Julio)",
+    "grupo": 10,
+    "posicion": 8
+  },
+  {
+    "id": 264,
+    "nombre_lamina": "Biografia de Pedro Domingo Murillo",
+    "grupo": 10,
+    "posicion": 9
+  },
+  {
+    "id": 265,
+    "nombre_lamina": "Billetes y Monedas del Estado Plurinacional de Bolivia",
+    "grupo": 10,
+    "posicion": 10
+  },
+  {
+    "id": 266,
+    "nombre_lamina": "Batalla de Ayacucho",
+    "grupo": 10,
+    "posicion": 11
+  },
+  {
+    "id": 267,
+    "nombre_lamina": "Partes del Escudo de Bolivia",
+    "grupo": 10,
+    "posicion": 12
+  },
+  {
+    "id": 268,
+    "nombre_lamina": "Banderas y Escudos Departamentales de Bolivia",
+    "grupo": 10,
+    "posicion": 13
+  },
+  {
+    "id": 269,
+    "nombre_lamina": "6 de Agosto - Dia de la Patria",
+    "grupo": 10,
+    "posicion": 14
+  },
+  {
+    "id": 270,
+    "nombre_lamina": "6 de Agosto Fundacion e Independencia de Bolivia",
+    "grupo": 10,
+    "posicion": 15
+  },
+  {
+    "id": 271,
+    "nombre_lamina": "Dia del Estado Plurinacional de Bolivia",
+    "grupo": 10,
+    "posicion": 16
+  },
+  {
+    "id": 272,
+    "nombre_lamina": "Escudo de Bolivia",
+    "grupo": 10,
+    "posicion": 17
+  },
+  {
+    "id": 273,
+    "nombre_lamina": "La Democracia",
+    "grupo": 10,
+    "posicion": 18
+  },
+  {
+    "id": 274,
+    "nombre_lamina": "Simbolos Patrios del Estado Plurinacional de Bolivia",
+    "grupo": 10,
+    "posicion": 19
+  },
+  {
+    "id": 275,
+    "nombre_lamina": "Biografia del Libertador Simon Boliviar",
+    "grupo": 10,
+    "posicion": 20
+  },
+  {
+    "id": 276,
+    "nombre_lamina": "Biografia de Antonio Jose de Sucre",
+    "grupo": 10,
+    "posicion": 21
+  },
+  {
+    "id": 277,
+    "nombre_lamina": "La Guerra del Pacifico",
+    "grupo": 10,
+    "posicion": 22
+  },
+  {
+    "id": 278,
+    "nombre_lamina": "Eduardo Avaroa (Defensa de Calama 23 de Marzo de 1880)",
+    "grupo": 10,
+    "posicion": 23
+  },
+  {
+    "id": 279,
+    "nombre_lamina": "Genoveva Rios",
+    "grupo": 10,
+    "posicion": 24
+  },
+  {
+    "id": 280,
+    "nombre_lamina": "Juancito Pinto",
+    "grupo": 10,
+    "posicion": 25
+  },
+  {
+    "id": 281,
+    "nombre_lamina": "Batalla del Alto de la Alianza",
+    "grupo": 10,
+    "posicion": 26
+  },
+  {
+    "id": 282,
+    "nombre_lamina": "Batalla de Junin",
+    "grupo": 10,
+    "posicion": 27
+  },
+  {
+    "id": 283,
+    "nombre_lamina": "Acta de la Independencia de Bolivia",
+    "grupo": 10,
+    "posicion": 28
+  },
+  {
+    "id": 284,
+    "nombre_lamina": "La Guerra del Chaco",
+    "grupo": 10,
+    "posicion": 29
+  },
+  {
+    "id": 285,
+    "nombre_lamina": "La Guerra del Acre",
+    "grupo": 10,
+    "posicion": 30
+  },
+  {
+    "id": 286,
+    "nombre_lamina": "Aniversario Civico de la Ciudad de El Alto",
+    "grupo": 10,
+    "posicion": 31
+  },
+  {
+    "id": 287,
+    "nombre_lamina": "Presidentes de bolivia",
+    "grupo": 11,
+    "posicion": 1
+  },
+  {
+    "id": 288,
+    "nombre_lamina": "Mapa mundo de bolivia",
+    "grupo": 11,
+    "posicion": 2
+  },
+  {
+    "id": 289,
+    "nombre_lamina": "Primer mapa de bolivia",
+    "grupo": 11,
+    "posicion": 3
+  },
+  {
+    "id": 290,
+    "nombre_lamina": "Perdidas territoriales",
+    "grupo": 11,
+    "posicion": 4
+  },
+  {
+    "id": 291,
+    "nombre_lamina": "Mapa politico de bolivia",
+    "grupo": 11,
+    "posicion": 5
+  },
+  {
+    "id": 292,
+    "nombre_lamina": "Mapa geografico de bolivia",
+    "grupo": 11,
+    "posicion": 6
+  },
+  {
+    "id": 293,
+    "nombre_lamina": "Mapa orografico de bolivia",
+    "grupo": 11,
+    "posicion": 7
+  },
+  {
+    "id": 294,
+    "nombre_lamina": "Mapa hidrografico de bolivia",
+    "grupo": 11,
+    "posicion": 8
+  },
+  {
+    "id": 295,
+    "nombre_lamina": "Mapa ganadero de bolivia",
+    "grupo": 11,
+    "posicion": 9
+  },
+  {
+    "id": 296,
+    "nombre_lamina": "Mapa fisico de bolivia",
+    "grupo": 11,
+    "posicion": 10
+  },
+  {
+    "id": 297,
+    "nombre_lamina": "La agricultura en bolivia",
+    "grupo": 11,
+    "posicion": 11
+  },
+  {
+    "id": 298,
+    "nombre_lamina": "Mapa economico de bolivia",
+    "grupo": 11,
+    "posicion": 12
+  },
+  {
+    "id": 299,
+    "nombre_lamina": "Mapa etnolinguistico de bolivia",
+    "grupo": 11,
+    "posicion": 13
+  },
+  {
+    "id": 300,
+    "nombre_lamina": "Mapa vial de bolivia",
+    "grupo": 11,
+    "posicion": 14
+  },
+  {
+    "id": 301,
+    "nombre_lamina": "Mapa politico del departamento autonomo de la paz",
+    "grupo": 11,
+    "posicion": 15
+  },
+  {
+    "id": 302,
+    "nombre_lamina": "Mapa hidrografico de la paz",
+    "grupo": 11,
+    "posicion": 16
+  },
+  {
+    "id": 303,
+    "nombre_lamina": "Mapa politico de oruro",
+    "grupo": 11,
+    "posicion": 17
+  },
+  {
+    "id": 304,
+    "nombre_lamina": "Mapa politico de cochabamba",
+    "grupo": 11,
+    "posicion": 18
+  },
+  {
+    "id": 305,
+    "nombre_lamina": "Aniversario de cochabamba 14 de septiembre",
+    "grupo": 11,
+    "posicion": 19
+  },
+  {
+    "id": 306,
+    "nombre_lamina": "Mapa politico de chuquisaca",
+    "grupo": 11,
+    "posicion": 20
+  },
+  {
+    "id": 307,
+    "nombre_lamina": "Mapa politico de tarija",
+    "grupo": 11,
+    "posicion": 21
+  },
+  {
+    "id": 308,
+    "nombre_lamina": "Mapa politico de pando",
+    "grupo": 11,
+    "posicion": 22
+  },
+  {
+    "id": 309,
+    "nombre_lamina": "Mapa politico de beni",
+    "grupo": 11,
+    "posicion": 23
+  },
+  {
+    "id": 310,
+    "nombre_lamina": "Mapa politico de santa cruz",
+    "grupo": 11,
+    "posicion": 24
+  },
+  {
+    "id": 311,
+    "nombre_lamina": "Revolucion de tarija (Batalla de la tablada)",
+    "grupo": 11,
+    "posicion": 25
+  },
+  {
+    "id": 312,
+    "nombre_lamina": "Aniversario civico de santa cruz 24 de septiembre",
+    "grupo": 11,
+    "posicion": 26
+  },
+  {
+    "id": 313,
+    "nombre_lamina": "Vestimentas tipicas y folckloricas de bolivia",
+    "grupo": 11,
+    "posicion": 27
+  },
+  {
+    "id": 314,
+    "nombre_lamina": "Vestimentas de la paz",
+    "grupo": 11,
+    "posicion": 28
+  },
+  {
+    "id": 315,
+    "nombre_lamina": "Las 36 Etnias de Bolivia",
+    "grupo": 11,
+    "posicion": 29
+  },
+  {
+    "id": 316,
+    "nombre_lamina": "Banderas y escudos de europa",
+    "grupo": 12,
+    "posicion": 1
+  },
+  {
+    "id": 317,
+    "nombre_lamina": "La galaxia",
+    "grupo": 12,
+    "posicion": 2
+  },
+  {
+    "id": 318,
+    "nombre_lamina": "La atmosfera",
+    "grupo": 12,
+    "posicion": 3
+  },
+  {
+    "id": 319,
+    "nombre_lamina": "La luna",
+    "grupo": 12,
+    "posicion": 4
+  },
+  {
+    "id": 320,
+    "nombre_lamina": "Eclipses de sol y la luna",
+    "grupo": 12,
+    "posicion": 5
+  },
+  {
+    "id": 321,
+    "nombre_lamina": "El sol",
+    "grupo": 12,
+    "posicion": 6
+  },
+  {
+    "id": 322,
+    "nombre_lamina": "Mapamundi - Globo terraqueo",
+    "grupo": 12,
+    "posicion": 7
+  },
+  {
+    "id": 323,
+    "nombre_lamina": "Mapamundi",
+    "grupo": 12,
+    "posicion": 8
+  },
+  {
+    "id": 324,
+    "nombre_lamina": "Mapa politico del continente americano",
+    "grupo": 12,
+    "posicion": 9
+  },
+  {
+    "id": 325,
+    "nombre_lamina": "Mapa orografico de america",
+    "grupo": 12,
+    "posicion": 10
+  },
+  {
+    "id": 326,
+    "nombre_lamina": "Mapa hidrografico de america (2 tipos)",
+    "grupo": 12,
+    "posicion": 11
+  },
+  {
+    "id": 327,
+    "nombre_lamina": "Mapa politico de europa",
+    "grupo": 12,
+    "posicion": 12
+  },
+  {
+    "id": 328,
+    "nombre_lamina": "Mapa orogafico de europa",
+    "grupo": 12,
+    "posicion": 13
+  },
+  {
+    "id": 329,
+    "nombre_lamina": "Mapa hifrografico de europa",
+    "grupo": 12,
+    "posicion": 14
+  },
+  {
+    "id": 330,
+    "nombre_lamina": "Mapa economico de europa",
+    "grupo": 12,
+    "posicion": 15
+  },
+  {
+    "id": 331,
+    "nombre_lamina": "Mapa politico de asia",
+    "grupo": 12,
+    "posicion": 16
+  },
+  {
+    "id": 332,
+    "nombre_lamina": "MApa fisico de asia",
+    "grupo": 12,
+    "posicion": 17
+  },
+  {
+    "id": 333,
+    "nombre_lamina": "Mapa orografico de asia",
+    "grupo": 12,
+    "posicion": 18
+  },
+  {
+    "id": 334,
+    "nombre_lamina": "Mapa hidrografico de asia",
+    "grupo": 12,
+    "posicion": 19
+  },
+  {
+    "id": 335,
+    "nombre_lamina": "Mapa economico de asia",
+    "grupo": 12,
+    "posicion": 20
+  },
+  {
+    "id": 336,
+    "nombre_lamina": "Mapa politico de africa",
+    "grupo": 12,
+    "posicion": 21
+  },
+  {
+    "id": 337,
+    "nombre_lamina": "Mapa fisico de africa",
+    "grupo": 12,
+    "posicion": 22
+  },
+  {
+    "id": 338,
+    "nombre_lamina": "Mapa hidrografico de africa",
+    "grupo": 12,
+    "posicion": 23
+  },
+  {
+    "id": 339,
+    "nombre_lamina": "Mapa economico de africa",
+    "grupo": 12,
+    "posicion": 24
+  },
+  {
+    "id": 340,
+    "nombre_lamina": "Mapa politico de la antartida",
+    "grupo": 12,
+    "posicion": 25
+  },
+  {
+    "id": 341,
+    "nombre_lamina": "Mapa orografico de la antartida",
+    "grupo": 12,
+    "posicion": 26
+  },
+  {
+    "id": 342,
+    "nombre_lamina": "Mapa hidrografico de la antartida",
+    "grupo": 12,
+    "posicion": 27
+  },
+  {
+    "id": 343,
+    "nombre_lamina": "Mapa economico  de la antartida",
+    "grupo": 12,
+    "posicion": 28
+  },
+  {
+    "id": 344,
+    "nombre_lamina": "Mapa politico de oceania",
+    "grupo": 12,
+    "posicion": 29
+  },
+  {
+    "id": 345,
+    "nombre_lamina": "Mapa orografico de oceania",
+    "grupo": 12,
+    "posicion": 30
+  },
+  {
+    "id": 346,
+    "nombre_lamina": "Mapa hidrografico de oceania",
+    "grupo": 12,
+    "posicion": 31
+  },
+  {
+    "id": 347,
+    "nombre_lamina": "Mapa economico de oceania",
+    "grupo": 12,
+    "posicion": 32
+  },
+  {
+    "id": 348,
+    "nombre_lamina": "Mapa politico de america del sur",
+    "grupo": 12,
+    "posicion": 33
+  },
+  {
+    "id": 349,
+    "nombre_lamina": "Evolucion del hombre (2 tipos)",
+    "grupo": 12,
+    "posicion": 34
+  },
+  {
+    "id": 350,
+    "nombre_lamina": "Carnaval de Bolivia",
+    "grupo": 13,
+    "posicion": 1
+  },
+  {
+    "id": 351,
+    "nombre_lamina": "La Demanda Maritima Boliviana Ante la Haya",
+    "grupo": 13,
+    "posicion": 2
+  },
+  {
+    "id": 352,
+    "nombre_lamina": "Bandera de la Reivindicacion Maritima",
+    "grupo": 13,
+    "posicion": 3
+  },
+  {
+    "id": 353,
+    "nombre_lamina": "Simbolos del Litoral Boliviano",
+    "grupo": 13,
+    "posicion": 4
+  },
+  {
+    "id": 354,
+    "nombre_lamina": "Mapa del Litoral - Bolivia",
+    "grupo": 13,
+    "posicion": 5
+  },
+  {
+    "id": 355,
+    "nombre_lamina": "Geografia Economica",
+    "grupo": 13,
+    "posicion": 6
+  },
+  {
+    "id": 356,
+    "nombre_lamina": "Edad Contemporanea desde 1789 d.c. (2 tipos)",
+    "grupo": 13,
+    "posicion": 7
+  },
+  {
+    "id": 357,
+    "nombre_lamina": "Las Colonizaciones de America",
+    "grupo": 13,
+    "posicion": 8
+  },
+  {
+    "id": 358,
+    "nombre_lamina": "Principales Geopoliticas",
+    "grupo": 13,
+    "posicion": 9
+  },
+  {
+    "id": 359,
+    "nombre_lamina": "Planisferio Politico",
+    "grupo": 13,
+    "posicion": 10
+  },
+  {
+    "id": 360,
+    "nombre_lamina": "Clases Sociales en Bolivia",
+    "grupo": 13,
+    "posicion": 11
+  },
+  {
+    "id": 361,
+    "nombre_lamina": "Las Tres Zonas Geograficas de Bolivia",
+    "grupo": 13,
+    "posicion": 12
+  },
+  {
+    "id": 362,
+    "nombre_lamina": "Religiones del Mundo",
+    "grupo": 13,
+    "posicion": 13
+  },
+  {
+    "id": 363,
+    "nombre_lamina": "Filosofos Griegos",
+    "grupo": 13,
+    "posicion": 14
+  },
+  {
+    "id": 364,
+    "nombre_lamina": "Teoria del Big Bang",
+    "grupo": 13,
+    "posicion": 15
+  },
+  {
+    "id": 365,
+    "nombre_lamina": "Teoria Creacionista",
+    "grupo": 13,
+    "posicion": 16
+  },
+  {
+    "id": 366,
+    "nombre_lamina": "Teoria Evolucionista",
+    "grupo": 13,
+    "posicion": 17
+  },
+  {
+    "id": 367,
+    "nombre_lamina": "Cultura Griega",
+    "grupo": 13,
+    "posicion": 18
+  },
+  {
+    "id": 368,
+    "nombre_lamina": "Cultura Egipcia",
+    "grupo": 13,
+    "posicion": 19
+  },
+  {
+    "id": 369,
+    "nombre_lamina": "Los Primeros Habitantes de America",
+    "grupo": 13,
+    "posicion": 20
+  },
+  {
+    "id": 370,
+    "nombre_lamina": "Conquista de America - 12 de Octubre de 1492",
+    "grupo": 13,
+    "posicion": 21
+  },
+  {
+    "id": 371,
+    "nombre_lamina": "El Renacimiento (Personajes)",
+    "grupo": 13,
+    "posicion": 22
+  },
+  {
+    "id": 372,
+    "nombre_lamina": "El Censo en Bolivia",
+    "grupo": 13,
+    "posicion": 23
+  },
+  {
+    "id": 373,
+    "nombre_lamina": "Anatomia de las Aves",
+    "grupo": 14,
+    "posicion": 1
+  },
+  {
+    "id": 374,
+    "nombre_lamina": "Animales perjudiciales al hombre",
+    "grupo": 14,
+    "posicion": 2
+  },
+  {
+    "id": 375,
+    "nombre_lamina": "La Arquitectura en Bolivia",
+    "grupo": 14,
+    "posicion": 3
+  },
+  {
+    "id": 376,
+    "nombre_lamina": "El Chaqueo",
+    "grupo": 14,
+    "posicion": 4
+  },
+  {
+    "id": 377,
+    "nombre_lamina": "Incendio Forestal",
+    "grupo": 14,
+    "posicion": 5
+  },
+  {
+    "id": 378,
+    "nombre_lamina": "Primera Guerra Mundial",
+    "grupo": 14,
+    "posicion": 6
+  },
+  {
+    "id": 379,
+    "nombre_lamina": "Segunda Guerra Mundial",
+    "grupo": 14,
+    "posicion": 7
+  },
+  {
+    "id": 380,
+    "nombre_lamina": "La Guerra Fria",
+    "grupo": 14,
+    "posicion": 8
+  },
+  {
+    "id": 381,
+    "nombre_lamina": "El Budismo",
+    "grupo": 14,
+    "posicion": 9
+  },
+  {
+    "id": 382,
+    "nombre_lamina": "Cultura Romana",
+    "grupo": 14,
+    "posicion": 10
+  },
+  {
+    "id": 383,
+    "nombre_lamina": "El Clima en Bolivia",
+    "grupo": 14,
+    "posicion": 11
+  },
+  {
+    "id": 384,
+    "nombre_lamina": "Revolucion Francesa",
+    "grupo": 14,
+    "posicion": 12
+  },
+  {
+    "id": 385,
+    "nombre_lamina": "Pluriculturalidad (Diversidad de Cultura)",
+    "grupo": 14,
+    "posicion": 13
+  }
+]
