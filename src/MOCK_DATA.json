@@ -2302,5 +2302,11 @@
     "nombre_lamina": "Revolucion Francesa",
     "grupo": 14,
     "posicion": 12
+  },
+  {
+    "id": 385,
+    "nombre_lamina": "Pluriculturalidad (Diversidad de Cultura)",
+    "grupo": 14,
+    "posicion": 13
   }
 ]
