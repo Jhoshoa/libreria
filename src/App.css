@@ -55,3 +55,37 @@ tr:active {
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+nav {
+  background-color: #f8f9fa; /* Background color for navbar */
+  padding: 10px; /* Padding for navbar */
+}
+
+nav ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+  display: flex; /* Make the list horizontal */
+}
+
+nav ul li {
+  margin-right: 20px; /* Add some spacing between the list items */
+}
+
+nav ul li a {
+  text-decoration: none; /* Remove underline from links */
+  color: black; /* Set link color */
+  padding: 8px 16px; /* Add padding to links */
+  border-radius: 4px; /* Rounded corners for links */
+}
+
+nav ul li a:hover {
+  background-color: #e2e6ea; /* Background color on hover */
+  color: #0056b3; /* Text color on hover */
+}
+
+nav ul li a.active {
+  background-color: #0056b3; /* Background color for active link */
+  color: white; /* Text color for active link */
+}
