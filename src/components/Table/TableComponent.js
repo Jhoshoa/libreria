@@ -1,22 +1,36 @@
 import React from "react";
-import { useTable, useGlobalFilter } from "react-table";
+import { useTable, useGlobalFilter, usePagination } from "react-table";
 import { GlobalFilter } from '../GlobalFilter';
+import './TableComponent.css';
+import Pagination from "./Pagination";
 
 function TableComponent({ data, columns }) {
   const {
     getTableProps,
     getTableBodyProps,
     headerGroups,
-    rows,
+    page, // Instead of rows, use page for pagination
     prepareRow,
     state,
-    setGlobalFilter
-  } = useTable({ columns, data }, useGlobalFilter);
+    setGlobalFilter,
+    canPreviousPage,
+    canNextPage,
+    pageOptions,
+    pageCount,
+    gotoPage,
+    nextPage,
+    previousPage,
+    setPageSize,
+  } = useTable(
+    { columns, data, initialState: { pageIndex: 0 } },
+    useGlobalFilter,
+    usePagination // Add usePagination here
+  );
 
-  const { globalFilter } = state;
+  const { globalFilter, pageIndex, pageSize } = state;
 
   return (
-    <>
+    <div className="table-container">
       <GlobalFilter filter={globalFilter} setFilter={setGlobalFilter} />
       <table {...getTableProps()}>
         <thead>
@@ -31,7 +45,7 @@ function TableComponent({ data, columns }) {
           ))}
         </thead>
         <tbody {...getTableBodyProps()}>
-          {rows.map((row) => {
+          {page.map((row) => { // Use page instead of rows for pagination
             prepareRow(row);
             return (
               <tr {...row.getRowProps()}>
@@ -43,7 +57,20 @@ function TableComponent({ data, columns }) {
           })}
         </tbody>
       </table>
-    </>
+
+      <Pagination
+        canPreviousPage={canPreviousPage}
+        canNextPage={canNextPage}
+        pageOptions={pageOptions}
+        pageCount={pageCount}
+        gotoPage={gotoPage}
+        nextPage={nextPage}
+        previousPage={previousPage}
+        pageIndex={pageIndex}
+        pageSize={pageSize}
+        setPageSize={setPageSize}
+      />    
+    </div>
   );
 }
 

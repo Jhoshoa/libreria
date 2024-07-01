@@ -8,7 +8,7 @@ function Books() {
     () => [
       { Header: "ID", accessor: "Numero" },
       { Header: "Nombre", accessor: "Nombre" },
-      { Header: "Precio", accessor: "Precio" },
+      { Header: "Precio Bs.", accessor: "Precio" },
       { Header: "Autor", accessor: "Autor" }
     ],
     []
@@ -16,7 +16,7 @@ function Books() {
 
   return (
     <>
-      <h2>Buscador Laminas Libros</h2>
+      <h2>Buscador Libros</h2>
       <div className="App">
         <div className="container">
           <TableComponent data={data} columns={columns} />
