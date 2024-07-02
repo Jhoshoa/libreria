@@ -1,9 +1,10 @@
 import './App.css';
 import React from "react";
-import { BrowserRouter as Router, Route, Link, Routes, Navigate } from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 import Laminas from "./components/Table/Laminas";
 import Books from "./components/Table/Books";
 import Navbar from './components/NavBar/Navbar';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/books" element={<Books />} />
         <Route path="*" element={<Navigate to="/" />} />
       </Routes>
+      <Footer />
     </>
   );
 }

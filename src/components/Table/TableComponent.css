@@ -1,3 +1,31 @@
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 3px;
+  height: 20px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: rgb(171, 219, 235); /* Change to desired hover color */
+}
+
+tr:active {
+  background-color: rgb(135, 154, 219); /* Change to desired active color */
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .table-container {
     display: flex;
     flex-direction: column;
