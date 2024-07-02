@@ -1,6 +1,7 @@
 import React from "react";
 import NavItem from "./Nabitem";
 import { useLocation } from "react-router-dom";
+import "./Navbar.css";
 
 // Custom hook to get the current location
 const useActiveLink = () => {
