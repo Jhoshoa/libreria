@@ -1,0 +1,767 @@
+[
+  {
+    "Numero": 1,
+    "Poductos": "Coca Cola y Fanta ( 3 L.)",
+    "Precio": 15
+  },
+  {
+    "Numero": 2,
+    "Poductos": "Coca Cola, Fanta y Sprite (2,5 L)",
+    "Precio": 13
+  },
+  {
+    "Numero": 3,
+    "Poductos": "Coca Cola (2L.)",
+    "Precio": 11
+  },
+  {
+    "Numero": 4,
+    "Poductos": "CocaCola Retornable (2,5L.)",
+    "Precio": 10
+  },
+  {
+    "Numero": 5,
+    "Poductos": "Coca, Fanta y Sprite Vidrio (1,5L.)",
+    "Precio": 7
+  },
+  {
+    "Numero": 6,
+    "Poductos": "Agua Vital (6L.)",
+    "Precio": 16
+  },
+  {
+    "Numero": 7,
+    "Poductos": "Agua vital (3L.)",
+    "Precio": 8
+  },
+  {
+    "Numero": 8,
+    "Poductos": "Agua vital (2L.)",
+    "Precio": 6
+  },
+  {
+    "Numero": 9,
+    "Poductos": "Agua vital (500ml)",
+    "Precio": 5
+  },
+  {
+    "Numero": 10,
+    "Poductos": "Agua vital (990ml.)",
+    "Precio": 6
+  },
+  {
+    "Numero": 11,
+    "Poductos": "Simba Piña y Manzana (2L.)",
+    "Precio": 10
+  },
+  {
+    "Numero": 12,
+    "Poductos": "Aquarius (2L.)",
+    "Precio": 11
+  },
+  {
+    "Numero": 13,
+    "Poductos": "Del valle (2L.)",
+    "Precio": 12
+  },
+  {
+    "Numero": 14,
+    "Poductos": "Del Valle (3L.)",
+    "Precio": 13
+  },
+  {
+    "Numero": 15,
+    "Poductos": "Coca, Fanta y Aquarius (500ml.)",
+    "Precio": 5
+  },
+  {
+    "Numero": 16,
+    "Poductos": "Populao Coca y Fanta vidrio",
+    "Precio": 4
+  },
+  {
+    "Numero": 17,
+    "Poductos": "Power (990ml.)",
+    "Precio": 10
+  },
+  {
+    "Numero": 18,
+    "Poductos": "Power (473ml.)",
+    "Precio": 6
+  },
+  {
+    "Numero": 19,
+    "Poductos": "Ades (1L.)",
+    "Precio": 10
+  },
+  {
+    "Numero": 20,
+    "Poductos": "Moster lata",
+    "Precio": 15
+  },
+  {
+    "Numero": 21,
+    "Poductos": "Personales Coca, Fanta y Sprite",
+    "Precio": 2
+  },
+  {
+    "Numero": 22,
+    "Poductos": "Pespi (3L.)",
+    "Precio": 11
+  },
+  {
+    "Numero": 23,
+    "Poductos": "Salvieti (3L.)",
+    "Precio": 12
+  },
+  {
+    "Numero": 24,
+    "Poductos": "Salvieti (2L.)",
+    "Precio": 11
+  },
+  {
+    "Numero": 25,
+    "Poductos": "Ice Frute (2,5L)",
+    "Precio": 11
+  },
+  {
+    "Numero": 26,
+    "Poductos": "Ice Frute (2 L.)",
+    "Precio": 10
+  },
+  {
+    "Numero": 27,
+    "Poductos": "Pura Vida (3L.)",
+    "Precio": 17
+  },
+  {
+    "Numero": 28,
+    "Poductos": "Pura Vida (2L.)",
+    "Precio": 13
+  },
+  {
+    "Numero": 29,
+    "Poductos": "Pomale (3L.)",
+    "Precio": 11
+  },
+  {
+    "Numero": 30,
+    "Poductos": "Coka Qina (3L.)",
+    "Precio": 11
+  },
+  {
+    "Numero": 31,
+    "Poductos": "Coka Qiuina (2L.)",
+    "Precio": 8
+  },
+  {
+    "Numero": 32,
+    "Poductos": "Coka Quina (750ml)",
+    "Precio": 4
+  },
+  {
+    "Numero": 33,
+    "Poductos": "Coka Quina (330ml.)",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 34,
+    "Poductos": "Agua Sport (2L.)",
+    "Precio": 6
+  },
+  {
+    "Numero": 35,
+    "Poductos": "Maltin (Lata)",
+    "Precio": 5
+  },
+  {
+    "Numero": 36,
+    "Poductos": "Malta y Quinua (Lata)",
+    "Precio": 5
+  },
+  {
+    "Numero": 37,
+    "Poductos": "Maltin (Botella )",
+    "Precio": 8.5
+  },
+  {
+    "Numero": 38,
+    "Poductos": "Bivervecina Inca (Botella)",
+    "Precio": 13
+  },
+  {
+    "Numero": 39,
+    "Poductos": "Cerveza Taquiña (Lata )",
+    "Precio": 6
+  },
+  {
+    "Numero": 40,
+    "Poductos": "Cerveza Burgueza (Lata)",
+    "Precio": 10
+  },
+  {
+    "Numero": 41,
+    "Poductos": "Cerveza Paceña (Lata grande)",
+    "Precio": 10
+  },
+  {
+    "Numero": 42,
+    "Poductos": "Cerveza Paceña ( Caja)",
+    "Precio": 160
+  },
+  {
+    "Numero": 43,
+    "Poductos": "Cerveza (Botella) par",
+    "Precio": 27
+  },
+  {
+    "Numero": 44,
+    "Poductos": "Chisito grande",
+    "Precio": 10
+  },
+  {
+    "Numero": 45,
+    "Poductos": "Papas Fritas grandes (Bolivar)",
+    "Precio": 15
+  },
+  {
+    "Numero": 46,
+    "Poductos": "Reservada",
+    "Precio": 7
+  },
+  {
+    "Numero": 47,
+    "Poductos": "Merenguita grande",
+    "Precio": 8
+  },
+  {
+    "Numero": 48,
+    "Poductos": "Merenguiya pequeño",
+    "Precio": 4
+  },
+  {
+    "Numero": 49,
+    "Poductos": "Frac Grande",
+    "Precio": 8
+  },
+  {
+    "Numero": 50,
+    "Poductos": "Frac pequeño",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 51,
+    "Poductos": "Oreo grande",
+    "Precio": 6
+  },
+  {
+    "Numero": 52,
+    "Poductos": "Oreo pequeño",
+    "Precio": 2
+  },
+  {
+    "Numero": 53,
+    "Poductos": "Choco soda",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 54,
+    "Poductos": "Chips Ahoy",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 55,
+    "Poductos": "Filipito",
+    "Precio": 3
+  },
+  {
+    "Numero": 56,
+    "Poductos": "Chocolate Danafrio",
+    "Precio": 3.5
+  },
+  {
+    "Numero": 57,
+    "Poductos": "Nikolo",
+    "Precio": 2
+  },
+  {
+    "Numero": 58,
+    "Poductos": "Wafer grande",
+    "Precio": 4
+  },
+  {
+    "Numero": 59,
+    "Poductos": "Wafer pequeño",
+    "Precio": 2
+  },
+  {
+    "Numero": 60,
+    "Poductos": "Top line",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 61,
+    "Poductos": "Chicle Beldent",
+    "Precio": 3
+  },
+  {
+    "Numero": 62,
+    "Poductos": "Cracker (1 Kilo)",
+    "Precio": 23
+  },
+  {
+    "Numero": 63,
+    "Poductos": "Cracker (1/2 kilo)",
+    "Precio": 13
+  },
+  {
+    "Numero": 64,
+    "Poductos": "Cracker paqueño",
+    "Precio": 5
+  },
+  {
+    "Numero": 65,
+    "Poductos": "Queque corona",
+    "Precio": 11
+  },
+  {
+    "Numero": 66,
+    "Poductos": "Galketa Bambino, Abuelita",
+    "Precio": 7
+  },
+  {
+    "Numero": 67,
+    "Poductos": "Galleta vandeja",
+    "Precio": 11
+  },
+  {
+    "Numero": 68,
+    "Poductos": "Galleta Victoria plastico",
+    "Precio": 15
+  },
+  {
+    "Numero": 69,
+    "Poductos": "Pan en Bolsa",
+    "Precio": 6.5
+  },
+  {
+    "Numero": 70,
+    "Poductos": "Pan Molde",
+    "Precio": 11
+  },
+  {
+    "Numero": 71,
+    "Poductos": "Bacon",
+    "Precio": 1
+  },
+  {
+    "Numero": 72,
+    "Poductos": "Trons",
+    "Precio": 1
+  },
+  {
+    "Numero": 73,
+    "Poductos": "Minty par",
+    "Precio": "1,5"
+  },
+  {
+    "Numero": 74,
+    "Poductos": "Chip o chip",
+    "Precio": 1
+  },
+  {
+    "Numero": 75,
+    "Poductos": "Cricks",
+    "Precio": 1
+  },
+  {
+    "Numero": 76,
+    "Poductos": "Palito de tauri",
+    "Precio": 0.5
+  },
+  {
+    "Numero": 77,
+    "Poductos": "queque",
+    "Precio": 1
+  },
+  {
+    "Numero": 78,
+    "Poductos": "Yogurt vasito",
+    "Precio": 2
+  },
+  {
+    "Numero": 79,
+    "Poductos": "Yely vasito",
+    "Precio": 2
+  },
+  {
+    "Numero": 80,
+    "Poductos": "Juguito pil",
+    "Precio": 2
+  },
+  {
+    "Numero": 81,
+    "Poductos": "Pilfrut, Yogurt y Vaquita",
+    "Precio": 1
+  },
+  {
+    "Numero": 82,
+    "Poductos": "Sal (5 kilos)",
+    "Precio": 5
+  },
+  {
+    "Numero": 83,
+    "Poductos": "Sal (1 Kilos)",
+    "Precio": 1.5
+  },
+  {
+    "Numero": 84,
+    "Poductos": "Nescafe (personal)",
+    "Precio": 1
+  },
+  {
+    "Numero": 85,
+    "Poductos": "Leche instantanea",
+    "Precio": 7
+  },
+  {
+    "Numero": 86,
+    "Poductos": "Mantequilla (Azul)",
+    "Precio": 4.5
+  },
+  {
+    "Numero": 87,
+    "Poductos": "Mantequilla (vaso)",
+    "Precio": 11
+  },
+  {
+    "Numero": 88,
+    "Poductos": "Maicena",
+    "Precio": 6
+  },
+  {
+    "Numero": 89,
+    "Poductos": "Viandada",
+    "Precio": 11
+  },
+  {
+    "Numero": 90,
+    "Poductos": "Picadillo",
+    "Precio": 4
+  },
+  {
+    "Numero": 91,
+    "Poductos": "Aceite Fino (1L.)",
+    "Precio": 14
+  },
+  {
+    "Numero": 92,
+    "Poductos": "Aceite Fino (1/2 L.)",
+    "Precio": 7
+  },
+  {
+    "Numero": 93,
+    "Poductos": "Jary limonero",
+    "Precio": 6
+  },
+  {
+    "Numero": 94,
+    "Poductos": "Salsa soya",
+    "Precio": 6
+  },
+  {
+    "Numero": 95,
+    "Poductos": "Mayonesa",
+    "Precio": 2
+  },
+  {
+    "Numero": 96,
+    "Poductos": "Mostaza",
+    "Precio": 2
+  },
+  {
+    "Numero": 97,
+    "Poductos": "Ketchup",
+    "Precio": 2
+  },
+  {
+    "Numero": 98,
+    "Poductos": "Te paris caja",
+    "Precio": 2
+  },
+  {
+    "Numero": 99,
+    "Poductos": "Esponja",
+    "Precio": 2
+  },
+  {
+    "Numero": 100,
+    "Poductos": "Clinex elite",
+    "Precio": 2
+  },
+  {
+    "Numero": 101,
+    "Poductos": "Clinex Mentol",
+    "Precio": 1.5
+  },
+  {
+    "Numero": 102,
+    "Poductos": "Higiénico Nacional (und.)",
+    "Precio": 2
+  },
+  {
+    "Numero": 103,
+    "Poductos": "Foco Phowermax (100w.)",
+    "Precio": 3.5
+  },
+  {
+    "Numero": 104,
+    "Poductos": "Guantes para lavar",
+    "Precio": 9
+  },
+  {
+    "Numero": 105,
+    "Poductos": "Guantes de trabajo",
+    "Precio": 11
+  },
+  {
+    "Numero": 106,
+    "Poductos": "Fosforo grande",
+    "Precio": 4
+  },
+  {
+    "Numero": 107,
+    "Poductos": "Fosforo pequeño",
+    "Precio": 0.5
+  },
+  {
+    "Numero": 108,
+    "Poductos": "Ace Klin grende",
+    "Precio": 26
+  },
+  {
+    "Numero": 109,
+    "Poductos": "Ace Klin pequeño",
+    "Precio": 6
+  },
+  {
+    "Numero": 110,
+    "Poductos": "Ace Surf",
+    "Precio": 3
+  },
+  {
+    "Numero": 111,
+    "Poductos": "Ace Patito",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 112,
+    "Poductos": "Ola (600ml.)",
+    "Precio": 14
+  },
+  {
+    "Numero": 113,
+    "Poductos": "Colgate colino grande",
+    "Precio": 14
+  },
+  {
+    "Numero": 114,
+    "Poductos": "Colino colgate pequeño",
+    "Precio": 7
+  },
+  {
+    "Numero": 115,
+    "Poductos": "Javon Uno",
+    "Precio": 4
+  },
+  {
+    "Numero": 116,
+    "Poductos": "Alcohol (1Litro)",
+    "Precio": 20
+  },
+  {
+    "Numero": 117,
+    "Poductos": "Alcohol (400ml.)",
+    "Precio": 10
+  },
+  {
+    "Numero": 118,
+    "Poductos": "Alcohol (250ml.)",
+    "Precio": 5
+  },
+  {
+    "Numero": 119,
+    "Poductos": "Alcohol pequeño",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 120,
+    "Poductos": "Shampoo Ballerina",
+    "Precio": 2
+  },
+  {
+    "Numero": 121,
+    "Poductos": "Nosotras normal",
+    "Precio": 9
+  },
+  {
+    "Numero": 122,
+    "Poductos": "Nosotras Invjsible",
+    "Precio": 10
+  },
+  {
+    "Numero": 123,
+    "Poductos": "Pañal Babyñoño (G)",
+    "Precio": 2
+  },
+  {
+    "Numero": 124,
+    "Poductos": "Pañal Huggies (XG)",
+    "Precio": 3
+  },
+  {
+    "Numero": 125,
+    "Poductos": "Tohallas Humedas",
+    "Precio": 6
+  },
+  {
+    "Numero": 126,
+    "Poductos": "Bolo Vaquita",
+    "Precio": 1
+  },
+  {
+    "Numero": 127,
+    "Poductos": "Hiper Acido",
+    "Precio": 1
+  },
+  {
+    "Numero": 128,
+    "Poductos": "Picole",
+    "Precio": 1
+  },
+  {
+    "Numero": 129,
+    "Poductos": "Delizaurio",
+    "Precio": 1.5
+  },
+  {
+    "Numero": 130,
+    "Poductos": "Afredo (canela)",
+    "Precio": 1.5
+  },
+  {
+    "Numero": 131,
+    "Poductos": "Gemelito",
+    "Precio": 1.5
+  },
+  {
+    "Numero": 132,
+    "Poductos": "Salsero",
+    "Precio": 2
+  },
+  {
+    "Numero": 133,
+    "Poductos": "Deli pop",
+    "Precio": 2
+  },
+  {
+    "Numero": 134,
+    "Poductos": "Heladitas",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 135,
+    "Poductos": "Lenguix",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 136,
+    "Poductos": "Vaquita (paleta)",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 137,
+    "Poductos": "Chantilin (paleta)",
+    "Precio": 2.5
+  },
+  {
+    "Numero": 138,
+    "Poductos": "Waferito",
+    "Precio": 3
+  },
+  {
+    "Numero": 139,
+    "Poductos": "Ricoco (paleta)",
+    "Precio": 3
+  },
+  {
+    "Numero": 140,
+    "Poductos": "Negrito",
+    "Precio": 3
+  },
+  {
+    "Numero": 141,
+    "Poductos": "Cono Ricoco y Menta",
+    "Precio": 4
+  },
+  {
+    "Numero": 142,
+    "Poductos": "Rocky (paleta)",
+    "Precio": 4
+  },
+  {
+    "Numero": 143,
+    "Poductos": "Megacono Pasas al ron",
+    "Precio": 5
+  },
+  {
+    "Numero": 144,
+    "Poductos": "Mini Tentacion",
+    "Precio": 5
+  },
+  {
+    "Numero": 145,
+    "Poductos": "Sandich",
+    "Precio": 5
+  },
+  {
+    "Numero": 146,
+    "Poductos": "Cono Rochy",
+    "Precio": 7
+  },
+  {
+    "Numero": 147,
+    "Poductos": "Tentacion (paleta)",
+    "Precio": 8
+  },
+  {
+    "Numero": 148,
+    "Poductos": "Cono Black",
+    "Precio": 8
+  },
+  {
+    "Numero": 149,
+    "Poductos": "Brownie",
+    "Precio": 8
+  },
+  {
+    "Numero": 150,
+    "Poductos": "Cono Tentacion",
+    "Precio": 8
+  },
+  {
+    "Numero": 151,
+    "Poductos": "Oveja Negra",
+    "Precio": 10
+  },
+  {
+    "Numero": 152,
+    "Poductos": "Bambino (1/2 kilo)",
+    "Precio": 12
+  },
+  {
+    "Numero": 153,
+    "Poductos": "Cassata (1kilo)",
+    "Precio": 22
+  }
+]
