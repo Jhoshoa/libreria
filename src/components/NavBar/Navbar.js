@@ -18,7 +18,7 @@ const Navbar = () => {
                 <ul>
                     <NavItem to="/laminas" className={currentPath === "/laminas" ? "active" : ""}>Laminas</NavItem>
                     <NavItem to="books" className={currentPath === "/books" ? "active" : ""}>Libros</NavItem>
-                    <NavItem to="products" className={currentPath === "/products" ? "active" : ""}>Tienda Mon</NavItem>
+                    <NavItem to="products" className={currentPath === "/products" ? "active" : ""}>Tienda</NavItem>
                 </ul>
             </nav>
         </>
