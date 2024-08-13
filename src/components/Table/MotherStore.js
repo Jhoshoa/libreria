@@ -6,7 +6,7 @@ function MotherStore() {
   const data = React.useMemo(() => productsStoreData, []);
   const columns = React.useMemo(
     () => [
-      { Header: "ID", accessor: "Numero" },
+      { Header: "ID", accessor: "id" },
       { Header: "Producto", accessor: "Poductos" },
       { Header: "Precio Bs.", accessor: "Precio" }
     ],  

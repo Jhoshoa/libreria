@@ -1,438 +1,438 @@
 [
     {
-      "Numero": 1,
+      "id": 1,
       "Nombre": "Las aventuras de Colita dorada",
       "Precio": 5,
       "Autor": "Hugo Villanueva"
     },
     {
-      "Numero": 2,
+      "id": 2,
       "Nombre": "La vida es bella 1",
       "Precio": 5,
       "Autor": "Milton Pascual"
     },
     {
-      "Numero": 3,
+      "id": 3,
       "Nombre": "La vida es bella 2",
       "Precio": 6,
       "Autor": "Milton Pascual"
     },
     {
-      "Numero": 4,
+      "id": 4,
       "Nombre": "Plato Paceño",
       "Precio": 5,
       "Autor": "Raul Salmon"
     },
     {
-      "Numero": 5,
+      "id": 5,
       "Nombre": "El Tunel",
       "Precio": 5,
       "Autor": "Esnesto Sábato"
     },
     {
-      "Numero": 6,
+      "id": 6,
       "Nombre": "Lo bonito de ser feo",
       "Precio": 6,
       "Autor": "Roger Otero Lorent"
     },
     {
-      "Numero": 7,
+      "id": 7,
       "Nombre": "La metamorfosis",
       "Precio": 6,
       "Autor": "Franz Kakza"
     },
     {
-      "Numero": 8,
+      "id": 8,
       "Nombre": "El zambo Salvito",
       "Precio": 5,
       "Autor": "Antonio paredes"
     },
     {
-      "Numero": 9,
+      "id": 9,
       "Nombre": "Tempestad en la cordillera",
       "Precio": 6,
       "Autor": "Walter Guevars"
     },
     {
-      "Numero": 10,
+      "id": 10,
       "Nombre": "La culpa es de la vaca(niños)",
       "Precio": 5,
       "Autor": "Jaime & Martha"
     },
     {
-      "Numero": 11,
+      "id": 11,
       "Nombre": "La culpa es de la vaca 1",
       "Precio": 6,
       "Autor": "Jaime & Martha"
     },
     {
-      "Numero": 12,
+      "id": 12,
       "Nombre": "La culpa es de la vaca 2",
       "Precio": 7,
       "Autor": "Jaime & Martha"
     },
     {
-      "Numero": 13,
+      "id": 13,
       "Nombre": "El arbol que llora sangre",
       "Precio": 7,
       "Autor": "David Vildoso"
     },
     {
-      "Numero": 14,
+      "id": 14,
       "Nombre": "¿Y el toro......?",
       "Precio": 6,
       "Autor": "Jorge & Carlos"
     },
     {
-      "Numero": 15,
+      "id": 15,
       "Nombre": "Relato de un naufrago",
       "Precio": 5,
       "Autor": "Gabriel Garcia Marquez"
     },
     {
-      "Numero": 16,
+      "id": 16,
       "Nombre": "Pueblo enfermo",
       "Precio": 5,
       "Autor": "Alcides Arguedas"
     },
     {
-      "Numero": 17,
+      "id": 17,
       "Nombre": "Don quijote xe mancha",
       "Precio": 5,
       "Autor": "Miguel de cerbantes"
     },
     {
-      "Numero": 18,
+      "id": 18,
       "Nombre": "El alquimista",
       "Precio": 6,
       "Autor": "Paulo Coelho"
     },
     {
-      "Numero": 19,
+      "id": 19,
       "Nombre": "Pedro páramo",
       "Precio": 6,
       "Autor": "Juan Rulfo"
     },
     {
-      "Numero": 20,
+      "id": 20,
       "Nombre": "La chaskañawi",
       "Precio": 5,
       "Autor": "Carlos medinacelli"
     },
     {
-      "Numero": 21,
+      "id": 21,
       "Nombre": "Un grito desesperado",
       "Precio": 6,
       "Autor": "Carlos Cuauhtemoc"
     },
     {
-      "Numero": 22,
+      "id": 22,
       "Nombre": "La iliada",
       "Precio": 5,
       "Autor": "Homero"
     },
     {
-      "Numero": 23,
+      "id": 23,
       "Nombre": "La odicea",
       "Precio": 5,
       "Autor": "Homero"
     },
     {
-      "Numero": 24,
+      "id": 24,
       "Nombre": "Joven, rica y plebeya",
       "Precio": 5,
       "Autor": "Raul Salmon"
     },
     {
-      "Numero": 25,
+      "id": 25,
       "Nombre": "Vulnerables",
       "Precio": 7,
       "Autor": "Jaime Aduana"
     },
     {
-      "Numero": 26,
+      "id": 26,
       "Nombre": "Diccionario Sinonimos-antonimos-paronimos",
       "Precio": 9,
       "Autor": ""
     },
     {
-      "Numero": 27,
+      "id": 27,
       "Nombre": "Los ojo de mi princesa",
       "Precio": 7,
       "Autor": "Carlos Cuauhtemoc"
     },
     {
-      "Numero": 28,
+      "id": 28,
       "Nombre": "Gabriela 1",
       "Precio": 6,
       "Autor": ""
     },
     {
-      "Numero": 29,
+      "id": 29,
       "Nombre": "Gabriela 2",
       "Precio": 6,
       "Autor": "Jaime Aduana"
     },
     {
-      "Numero": 30,
+      "id": 30,
       "Nombre": "Juventud en extasis",
       "Precio": 7,
       "Autor": "Carlos Cuauhtemoc"
     },
     {
-      "Numero": 31,
+      "id": 31,
       "Nombre": "Ellos no tiene Zapato",
       "Precio": 6,
       "Autor": "Antono Paredes"
     },
     {
-      "Numero": 32,
+      "id": 32,
       "Nombre": "Me averguenzas tus polleras",
       "Precio": 6,
       "Autor": "Juan Barrera"
     },
     {
-      "Numero": 33,
+      "id": 33,
       "Nombre": "Sangre de campeon (sin cadenas)",
       "Precio": 7,
       "Autor": "Carlos Cuauhtemoc"
     },
     {
-      "Numero": 34,
+      "id": 34,
       "Nombre": "Sangre de campeon",
       "Precio": 7,
       "Autor": "Carlos Cuauhtemoc"
     },
     {
-      "Numero": 35,
+      "id": 35,
       "Nombre": "Sangre de campeon (invencible)",
       "Precio": 6,
       "Autor": "Carlos Cuauhtemoc"
     },
     {
-      "Numero": 36,
+      "id": 36,
       "Nombre": "Volar sobre el pantano",
       "Precio": 6,
       "Autor": "Carlos Cuauhtemoc"
     },
     {
-      "Numero": 37,
+      "id": 37,
       "Nombre": "Quiero ser grande",
       "Precio": 6,
       "Autor": "Jaime aduana"
     },
     {
-      "Numero": 38,
+      "id": 38,
       "Nombre": "El caballero de la armadura oxidada",
       "Precio": 5,
       "Autor": "Robert Fisher"
     },
     {
-      "Numero": 39,
+      "id": 39,
       "Nombre": "El regreso del caballero de la armadura oxidada",
       "Precio": 5,
       "Autor": "Robert Fisher"
     },
     {
-      "Numero": 40,
+      "id": 40,
       "Nombre": "Aventura de dos niños",
       "Precio": 6,
       "Autor": "Antonio paredes"
     },
     {
-      "Numero": 41,
+      "id": 41,
       "Nombre": "Amargos años de un estudiante",
       "Precio": 6,
       "Autor": "Jaine aduana"
     },
     {
-      "Numero": 42,
+      "id": 42,
       "Nombre": "Histria del rey rey chiquito",
       "Precio": 5,
       "Autor": "Porfirio Diaz"
     },
     {
-      "Numero": 43,
+      "id": 43,
       "Nombre": "La niña de mis ojos",
       "Precio": 6,
       "Autor": "Antonio diaz"
     },
     {
-      "Numero": 44,
+      "id": 44,
       "Nombre": "Raza de bronce",
       "Precio": 6,
       "Autor": "Alcides Argueda"
     },
     {
-      "Numero": 45,
+      "id": 45,
       "Nombre": "La candidatura de rojas",
       "Precio": 6,
       "Autor": "Armando chirveches"
     },
     {
-      "Numero": 46,
+      "id": 46,
       "Nombre": "Mi primo es mi papá",
       "Precio": 5,
       "Autor": "Gaby Vallejos"
     },
     {
-      "Numero": 47,
+      "id": 47,
       "Nombre": "Cronicas de una muerte anunciada",
       "Precio": 6,
       "Autor": "Gabriel Garcia Marquez"
     },
     {
-      "Numero": 48,
+      "id": 48,
       "Nombre": "El calbario de mi madre",
       "Precio": 5,
       "Autor": "Juan Barrera"
     },
     {
-      "Numero": 49,
+      "id": 49,
       "Nombre": "Vitamina para el Alma",
       "Precio": 5,
       "Autor": "Phil Bosmans"
     },
     {
-      "Numero": 50,
+      "id": 50,
       "Nombre": "Vitaminas",
       "Precio": 15,
       "Autor": "Humberto Agudelo"
     },
     {
-      "Numero": 51,
+      "id": 51,
       "Nombre": "El chiqui de mi barrio",
       "Precio": 5,
       "Autor": "Adolfo Mier"
     },
     {
-      "Numero": 52,
+      "id": 52,
       "Nombre": "Socavones de angustia",
       "Precio": 6,
       "Autor": "Fernando Ramirez"
     },
     {
-      "Numero": 53,
+      "id": 53,
       "Nombre": "Corazon",
       "Precio": 5,
       "Autor": "Edmundo de Amicis"
     },
     {
-      "Numero": 54,
+      "id": 54,
       "Nombre": "Fabula de esopo",
       "Precio": 12,
       "Autor": ""
     },
     {
-      "Numero": 55,
+      "id": 55,
       "Nombre": "Libro de poesias",
       "Precio": 8,
       "Autor": ""
     },
     {
-      "Numero": 56,
+      "id": 56,
       "Nombre": "Dos niños frente a la vida",
       "Precio": 5,
       "Autor": "Guiomar Lavayen"
     },
     {
-      "Numero": 57,
+      "id": 57,
       "Nombre": "Mi planta lima naranja",
       "Precio": 6,
       "Autor": "Jose mauro"
     },
     {
-      "Numero": 58,
+      "id": 58,
       "Nombre": "Juan salvador gaviota",
       "Precio": 5,
       "Autor": "Richard Bach"
     },
     {
-      "Numero": 59,
+      "id": 59,
       "Nombre": "Cuando vuelva mi hijo",
       "Precio": 6,
       "Autor": "Antonio Diaz"
     },
     {
-      "Numero": 60,
+      "id": 60,
       "Nombre": "Los fundadores del Alba",
       "Precio": 9,
       "Autor": "Renato Prada"
     },
     {
-      "Numero": 61,
+      "id": 61,
       "Nombre": "El feo",
       "Precio": 5,
       "Autor": "Carlos Cuauhtemoc"
     },
     {
-      "Numero": 62,
+      "id": 62,
       "Nombre": "Quiubole",
       "Precio": 15,
       "Autor": "Gaby & Yordi"
     },
     {
-      "Numero": 63,
+      "id": 63,
       "Nombre": "Ollantay",
       "Precio": 5,
       "Autor": "Anonimo"
     },
     {
-      "Numero": 64,
+      "id": 64,
       "Nombre": "El principito",
       "Precio": 6,
       "Autor": "Antoine de Saint"
     },
     {
-      "Numero": 65,
+      "id": 65,
       "Nombre": "El delfin Azul",
       "Precio": 5,
       "Autor": "Hugo Villanuevs"
     },
     {
-      "Numero": 66,
+      "id": 66,
       "Nombre": "El coronel no tiene quien le escriba",
       "Precio": 5,
       "Autor": "Gabriel garcia"
     },
     {
-      "Numero": 67,
+      "id": 67,
       "Nombre": "Leyenda de mi tierra",
       "Precio": 5,
       "Autor": "Antonio diaz"
     },
     {
-      "Numero": 68,
+      "id": 68,
       "Nombre": "Edipo rey",
       "Precio": 5,
       "Autor": "Sófocles"
     },
     {
-      "Numero": 69,
+      "id": 69,
       "Nombre": "En las tierras del potosi",
       "Precio": 5,
       "Autor": "Jaime mendoza"
     },
     {
-      "Numero": 70,
+      "id": 70,
       "Nombre": "El velero de cristal",
       "Precio": 5,
       "Autor": "Jose mauro"
     },
     {
-      "Numero": 71,
+      "id": 71,
       "Nombre": "Cara sucia",
       "Precio": 5,
       "Autor": "Camarlinghi"
     },
     {
-      "Numero": 72,
+      "id": 72,
       "Nombre": "Ley Safco",
       "Precio": 10,
       "Autor": ""
     },
     {
-      "Numero": 73,
+      "id": 73,
       "Nombre": "Constitucion politica del Estado Plurinacional de Bolivia",
       "Precio": 10,
       "Autor": ""

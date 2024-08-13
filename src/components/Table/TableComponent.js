@@ -3,8 +3,31 @@ import { useTable, useGlobalFilter, usePagination } from "react-table";
 import { GlobalFilter } from '../GlobalFilter';
 import './TableComponent.css';
 import Pagination from "./Pagination";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEdit, faTrashCan } from "@fortawesome/free-regular-svg-icons";
 
 function TableComponent({ data, columns }) {
+  const actionsColumn = {
+    Header: "Edit",
+    id: "actions", // A unique id for this column
+    Cell: ({ row }) => (
+      <div className="actions">
+        <FontAwesomeIcon 
+          icon={faEdit} 
+          size="xs" 
+          style={{ cursor: "pointer", marginRight: "10px" }} 
+        />
+        <FontAwesomeIcon 
+          icon={faTrashCan} 
+          size="xs" 
+          style={{ cursor: "pointer" }} 
+        />
+      </div>
+    ),
+  };
+
+  const newColumns = React.useMemo(() => [...columns, actionsColumn], [columns]);
+
   const {
     getTableProps,
     getTableBodyProps,
@@ -22,7 +45,7 @@ function TableComponent({ data, columns }) {
     previousPage,
     setPageSize,
   } = useTable(
-    { columns, data, initialState: { pageIndex: 0 } },
+    { columns: newColumns, data, initialState: { pageIndex: 0 } },
     useGlobalFilter,
     usePagination // Add usePagination here
   );
